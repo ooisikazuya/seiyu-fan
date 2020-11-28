@@ -1,2 +1,0 @@
-class VoiceActor < ApplicationRecord
-end
