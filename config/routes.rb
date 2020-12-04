@@ -6,7 +6,7 @@ Rails.application.routes.draw do
   get 'community/edit'
   get 'voice_actor_hometown/index'
   get 'voice_actor_hometown/list'
-  get 'voice_actor_list/index'
+  resources :voice_actors, only: [:index]
   get 'home/top'
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end
