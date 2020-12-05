@@ -4,16 +4,16 @@
 <div class="container">
   <div class="row">
     <div class="col-2">
-      <div class="btn  btn-lg btn-warning active">あ<span class="sr-only">(current)</span></div><br><br>
-      <a class="btn btn-lg btn-warning" href="#" role="buttun">か</a><br><br>
-      <a class="btn btn-lg btn-warning" href="#" role="buttun">さ</a><br><br>
-      <a class="btn btn-lg btn-warning" href="#" role="buttun">た</a><br><br>
-      <a class="btn btn-lg btn-warning" href="#" role="buttun">な</a><br><br>
-      <a class="btn btn-lg btn-warning" href="#" role="buttun">は</a><br><br>
-      <a class="btn btn-lg btn-warning" href="#" role="buttun">ま</a><br><br>
-      <a class="btn btn-lg btn-warning" href="#" role="buttun">や</a><br><br>
-      <a class="btn btn-lg btn-warning" href="#" role="buttun">ら</a><br><br>
-      <a class="btn btn-lg btn-warning" href="#" role="buttun">わ</a><br><br>
+      <%= link_to 'あ', voice_actors_path(kana_row: 'あ'), class: "btn btn-lg btn-warning #{@kana_row == 'あ' ? 'active' : ''}" %><br><br>
+      <%= link_to 'か', voice_actors_path(kana_row: 'か'), class: "btn btn-lg btn-warning #{@kana_row == 'か' ? 'active' : ''}" %><br><br>
+      <%= link_to 'さ', voice_actors_path(kana_row: 'さ'), class: "btn btn-lg btn-warning #{@kana_row == 'さ' ? 'active' : ''}" %><br><br>
+      <%= link_to 'た', voice_actors_path(kana_row: 'た'), class: "btn btn-lg btn-warning #{@kana_row == 'た' ? 'active' : ''}" %><br><br>
+      <%= link_to 'な', voice_actors_path(kana_row: 'な'), class: "btn btn-lg btn-warning #{@kana_row == 'な' ? 'active' : ''}" %><br><br>
+      <%= link_to 'は', voice_actors_path(kana_row: 'は'), class: "btn btn-lg btn-warning #{@kana_row == 'は' ? 'active' : ''}" %><br><br>
+      <%= link_to 'ま', voice_actors_path(kana_row: 'ま'), class: "btn btn-lg btn-warning #{@kana_row == 'ま' ? 'active' : ''}" %><br><br>
+      <%= link_to 'や', voice_actors_path(kana_row: 'や'), class: "btn btn-lg btn-warning #{@kana_row == 'や' ? 'active' : ''}" %><br><br>
+      <%= link_to 'ら', voice_actors_path(kana_row: 'ら'), class: "btn btn-lg btn-warning #{@kana_row == 'ら' ? 'active' : ''}" %><br><br>
+      <%= link_to 'わ', voice_actors_path(kana_row: 'わ'), class: "btn btn-lg btn-warning #{@kana_row == 'わ' ? 'active' : ''}" %><br><br>
     </div>   
     <div class="col-10">
       <div class="card border-primary">
@@ -24,9 +24,9 @@
                 <tr>
                   <td><%= "#{voice_actor.last_name} #{voice_actor.first_name}" %></td>
                   <td>
-                    <a href='<%= voice_actor.wikipedia_url %>'>wikipedia</a>
+                    <a href='<%= voice_actor.wikipedia_url %>'>Wikipedia</a>
                     <br>
-                    <a href='<%= voice_actor.twitter_url %>'>twitter</a>
+                    <a href='<%= voice_actor.twitter_url %>'>Twitter</a>
                   </td>
                 </tr>
               <% end %>

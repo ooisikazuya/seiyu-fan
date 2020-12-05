@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get 'hometown/index'
   get 'user/edit'
   get 'user/login'
   get 'user/new'
