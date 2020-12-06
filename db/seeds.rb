@@ -3782,6 +3782,17 @@
   },
   {
     id: 344,
+    last_name: "Lynn",
+    first_name: "",
+    last_name_kana: "りん",
+    first_name_kana: "",
+    prefecture: "新潟県",
+    address: "",
+    wikipedia_url: "https://ja.wikipedia.org/wiki/Lynn",
+    twitter_url: "https://twitter.com/Lynn_0601_"
+  },
+  {
+    id: 345,
     last_name: "若本",
     first_name: "規夫",
     last_name_kana: "わかもと",

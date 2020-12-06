@@ -17,7 +17,8 @@
     </div>   
     <div class="col-10">
       <div class="card border-primary">
-        <div class="card-body">   
+        <div class="card-body">
+        <%= page_entries_info @voice_actors %>   
           <table class="table">
             <tbody>
               <% @voice_actors.each do |voice_actor| %>
@@ -32,25 +33,7 @@
               <% end %>
             </tbody>
           </table>
-          <nav aria-label="Page navigation example" class="float-right">
-            <ul class="pagination">
-              <li class="page-item active">
-                <div class="page-link">1<span class="sr-only">(current)</span></div>
-              </li>
-              <li class="page-item">
-                <a class="page-link" href="#">2</a>
-              </li>
-              <li class="page-item">
-                <a class="page-link" href="#">3</a>
-              </li>
-              <li class="page-item">
-                <a class="page-link" href="#" aria-label="Next">
-                  <span aria-hidden="true">&raquo;</span>
-                  <span class="sr-only">Next</span>
-                </a>
-              </li>
-            </ul>
-          </nav>
+          <%= paginate @voice_actors %>
         </div>
       </div>
     </div>
