@@ -14,9 +14,9 @@ ActiveRecord::Schema.define(version: 2020_11_27_115216) do
 
   create_table "voice_actors", force: :cascade do |t|
     t.string "last_name", null: false
-    t.string "first_name", default: "",null: false, 
+    t.string "first_name", default: "", null: false
     t.string "last_name_kana", null: false
-    t.string "first_name_kana", default: "",null: false, 
+    t.string "first_name_kana", default: "", null: false
     t.string "prefecture", null: false
     t.string "address", default: "", null: false
     t.string "wikipedia_url", default: "", null: false

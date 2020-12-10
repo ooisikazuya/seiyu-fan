@@ -1,0 +1,39 @@
+<div class="container">
+  <h1 class="bg-success text-white text-center">出身地丸分かり表</h1> 
+</div><br>
+<div class="container">
+  <h2 class="text-primary"><%= "#{@prefecture}" %></h1> 
+</div><br>
+<div class="container">
+  <%= image_tag "#{@prefecture}.png" %>
+</div><br><br>
+<div class="container">   
+  <div class="card border-dark">
+    <div class="card-body">
+      <div class="container">
+        <div class="row">
+          <div class="col-11">
+            <%= page_entries_info @voice_actors %>
+            <table class="table">
+              <tbody>
+                <% @voice_actors.each do |voice_actor| %>
+                  <tr>
+                    <td><%= "#{voice_actor.last_name} #{voice_actor.first_name}" %></td>
+                    <td>
+                      <a href='<%= voice_actor.wikipedia_url %>'>Wikipedia</a>
+                      <br>
+                      <% if voice_actor.twitter_url != "" %>
+                      <a href='<%= voice_actor.twitter_url %>'>Twitter</a>
+                      <% end %>
+                    </td>
+                  </tr> 
+                <% end %>
+              </tbody>
+            </table>
+            <%= paginate @voice_actors %>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div><br><br>

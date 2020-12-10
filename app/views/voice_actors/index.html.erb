@@ -18,7 +18,7 @@
     <div class="col-10">
       <div class="card border-primary">
         <div class="card-body">
-        <%= page_entries_info @voice_actors %>   
+          <%= page_entries_info @voice_actors %>   
           <table class="table">
             <tbody>
               <% @voice_actors.each do |voice_actor| %>
@@ -27,7 +27,9 @@
                   <td>
                     <a href='<%= voice_actor.wikipedia_url %>'>Wikipedia</a>
                     <br>
+                    <% if voice_actor.twitter_url != "" %>
                     <a href='<%= voice_actor.twitter_url %>'>Twitter</a>
+                    <% end %>
                   </td>
                 </tr>
               <% end %>
