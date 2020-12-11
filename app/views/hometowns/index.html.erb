@@ -1,0 +1,287 @@
+<div class="container">
+  <h1 class="bg-success text-white text-center">出身地丸分かり表</h1>
+</div><br>
+<div class="container">
+  <h2 class="text-primary">都道府県一覧</h2>
+</div><br>
+<div class="container">
+  <h3 class="text-primary">北海道・東北地方</h3>
+</div>
+<div class="container">
+  <div class="card border-primary">
+    <div class="card-body"><br>
+      <div class="container">
+        <div class="row">
+          <div class="col-3">
+            <%= link_to '北海道', "/hometowns/show?prefecture=北海道", class: "btn btn-lg btn-outline-primary #{@prefecture == '北海道'}" %> 
+          </div>
+          <div class="col-3">
+            <%= link_to '青森県', "/hometowns/show?prefecture=青森県", class: "btn btn-lg btn-outline-primary #{@prefecture == '青森県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '岩手県', "/hometowns/show?prefecture=岩手県", class: "btn btn-lg btn-outline-primary #{@prefecture == '岩手県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '宮城県', "/hometowns/show?prefecture=宮城県", class: "btn btn-lg btn-outline-primary #{@prefecture == '宮城県'}" %>
+          </div>
+        </div>
+      </div><br>    
+      <div class="container">
+        <div class="row">
+          <div class="col-3">
+            <%= link_to '秋田県', "/hometowns/show?prefecture=秋田県", class: "btn btn-lg btn-outline-primary #{@prefecture == '秋田県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '山形県', "/hometowns/show?prefecture=山形県", class: "btn btn-lg btn-outline-primary #{@prefecture == '山形県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '福島県', "/hometowns/show?prefecture=福島県", class: "btn btn-lg btn-outline-primary #{@prefecture == '福島県'}" %>
+          </div>
+        </div>
+      </div><br>
+    </div>
+  </div>
+</div><br>
+<div class="container">
+  <h3 class="text-dark">関東地方</h3>
+</div>
+<div class="container">
+  <div class="card border-dark">
+    <div class="card-body"><br>
+      <div class="container">
+        <div class="row">
+          <div class="col-3">
+            <%= link_to '茨城県', "/hometowns/show?prefecture=茨城県", class: "btn btn-lg btn-outline-dark #{@prefecture == '茨城県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '栃木県', "/hometowns/show?prefecture=栃木県", class: "btn btn-lg btn-outline-dark #{@prefecture == '栃木県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '群馬県', "/hometowns/show?prefecture=群馬県", class: "btn btn-lg btn-outline-dark #{@prefecture == '群馬県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '埼玉県', "/hometowns/show?prefecture=埼玉県", class: "btn btn-lg btn-outline-dark #{@prefecture == '埼玉県'}" %>
+          </div>
+        </div>
+      </div><br>
+      <div class="container">
+        <div class="row">
+          <div class="col-3">
+            <%= link_to '千葉県', "/hometowns/show?prefecture=千葉県", class: "btn btn-lg btn-outline-dark #{@prefecture == '千葉県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '東京都', "/hometowns/show?prefecture=東京都", class: "btn btn-lg btn-outline-dark #{@prefecture == '東京都'}" %>
+          </div>
+          <div class="col-6">
+            <%= link_to '神奈川県', "/hometowns/show?prefecture=神奈川県", class: "btn btn-lg btn-outline-dark #{@prefecture == '神奈川県'}" %>
+          </div>
+        </div>
+      </div><br>
+    </div>
+  </div>
+</div><br>
+<div class="container">
+  <h3 class="text-success">中部地方</h3>
+</div>
+<div class="container">
+  <div class="card border-success">
+    <div class="card-body"><br>
+      <div class="container">
+        <div class="row">
+          <div class="col-3">
+            <%= link_to '新潟県', "/hometowns/show?prefecture=新潟県", class: "btn btn-lg btn-outline-success #{@prefecture == '新潟県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '富山県', "/hometowns/show?prefecture=富山県", class: "btn btn-lg btn-outline-success #{@prefecture == '富山県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '石川県', "/hometowns/show?prefecture=石川県", class: "btn btn-lg btn-outline-success #{@prefecture == '石川県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '福井県', "/hometowns/show?prefecture=福井県", class: "btn btn-lg btn-outline-success #{@prefecture == '福井県'}" %>
+          </div>
+        </div>
+      </div><br>
+      <div class="container">
+        <div class="row">
+          <div class="col-3">
+            <%= link_to '山梨県', "/hometowns/show?prefecture=山梨県", class: "btn btn-lg btn-outline-success #{@prefecture == '山梨県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '長野県', "/hometowns/show?prefecture=長野県", class: "btn btn-lg btn-outline-success #{@prefecture == '長野県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '岐阜県', "/hometowns/show?prefecture=岐阜県", class: "btn btn-lg btn-outline-success #{@prefecture == '岐阜県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '静岡県', "/hometowns/show?prefecture=静岡県", class: "btn btn-lg btn-outline-success #{@prefecture == '静岡県'}" %>
+          </div>
+        </div>
+      </div><br>
+      <div class="container">
+        <div class="row">
+          <div class="col-3">
+            <%= link_to '愛知県', "/hometowns/show?prefecture=愛知県", class: "btn btn-lg btn-outline-success #{@prefecture == '愛知県'}" %>
+          </div>
+        </div>
+      </div><br>
+    </div>
+  </div>
+</div><br>
+<div class="container">
+  <h3 class="text-warning">近畿地方</h3>
+</div>
+<div class="container">
+  <div class="card border-warning">
+    <div class="card-body"><br>
+      <div class="container">
+        <div class="row">
+          <div class="col-3">
+            <%= link_to '三重県', "/hometowns/show?prefecture=三重県", class: "btn btn-lg btn-outline-warning #{@prefecture == '三重県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '滋賀県', "/hometowns/show?prefecture=滋賀県", class: "btn btn-lg btn-outline-warning #{@prefecture == '滋賀県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '京都府', "/hometowns/show?prefecture=京都府", class: "btn btn-lg btn-outline-warning #{@prefecture == '京都府'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '大阪府', "/hometowns/show?prefecture=大阪府", class: "btn btn-lg btn-outline-warning #{@prefecture == '大阪府'}" %>
+          </div>
+        </div>
+      </div><br>
+      <div class="container">
+        <div class="row">
+          <div class="col-3">
+            <%= link_to '兵庫県', "/hometowns/show?prefecture=兵庫県", class: "btn btn-lg btn-outline-warning #{@prefecture == '兵庫県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '奈良県', "/hometowns/show?prefecture=奈良県", class: "btn btn-lg btn-outline-warning #{@prefecture == '奈良県'}" %>
+          </div>
+          <div class="col-6">
+            <%= link_to '和歌山県', "/hometowns/show?prefecture=和歌山県", class: "btn btn-lg btn-outline-warning #{@prefecture == '和歌山県'}" %>
+          </div>
+        </div>
+      </div><br>
+    </div>
+  </div>
+</div><br>
+<div class="container">
+  <h3 class="text-danger">中国地方</h3>
+</div>
+<div class="container">
+  <div class="card border-danger">
+    <div class="card-body"><br>
+      <div class="container">
+        <div class="row">
+          <div class="col-3">
+            <%= link_to '鳥取県', "/hometowns/show?prefecture=鳥取県", class: "btn btn-lg btn-outline-danger #{@prefecture == '鳥取県'}" %> 
+          </div>
+          <div class="col-3">
+            <%= link_to '島根県', "/hometowns/show?prefecture=島根県", class: "btn btn-lg btn-outline-danger #{@prefecture == '島根県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '岡山県', "/hometowns/show?prefecture=岡山県", class: "btn btn-lg btn-outline-danger #{@prefecture == '岡山県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '広島県', "/hometowns/show?prefecture=広島県", class: "btn btn-lg btn-outline-danger #{@prefecture == '広島県'}" %>
+          </div>
+        </div>
+      </div><br>
+      <div class="container">
+        <div class="row">
+          <div class="col-3">
+            <%= link_to '山口県', "/hometowns/show?prefecture=山口県", class: "btn btn-lg btn-outline-danger #{@prefecture == '山口県'}" %>
+          </div>
+        </div>
+      </div><br>
+    </div>
+  </div>
+</div><br>
+<div class="container">
+  <h3 class="text-info">四国地方</h3>
+</div>
+<div class="container">
+  <div class="card border-info">
+    <div class="card-body"><br>
+      <div class="container">
+        <div class="row">
+          <div class="col-3">
+            <%= link_to '徳島県', "/hometowns/show?prefecture=徳島県", class: "btn btn-lg btn-outline-info #{@prefecture == '徳島県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '香川県', "/hometowns/show?prefecture=香川県", class: "btn btn-lg btn-outline-info #{@prefecture == '香川県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '愛媛県', "/hometowns/show?prefecture=愛媛県", class: "btn btn-lg btn-outline-info #{@prefecture == '愛媛県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '高知県', "/hometowns/show?prefecture=高知県", class: "btn btn-lg btn-outline-info #{@prefecture == '高知県'}" %>
+          </div>
+        </div>
+      </div><br>
+    </div>
+  </div>
+</div><br>
+<div class="container">
+  <h3 class="text-secondary">九州・沖縄地方</h3>
+</div>
+<div class="container">
+  <div class="card border-secondary">
+    <div class="card-body"><br>
+      <div class="container">
+        <div class="row">
+          <div class="col-3">
+            <%= link_to '福岡県', "/hometowns/show?prefecture=福岡県", class: "btn btn-lg btn-outline-secondary #{@prefecture == '福岡県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '佐賀県', "/hometowns/show?prefecture=佐賀県", class: "btn btn-lg btn-outline-secondary #{@prefecture == '佐賀県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '長崎県', "/hometowns/show?prefecture=長崎県", class: "btn btn-lg btn-outline-secondary #{@prefecture == '長崎県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '熊本県', "/hometowns/show?prefecture=熊本県", class: "btn btn-lg btn-outline-secondary #{@prefecture == '熊本県'}" %>
+          </div>
+        </div>
+      </div><br>
+      <div class="container">  
+        <div class="row">
+          <div class="col-3">
+            <%= link_to '大分県', "/hometowns/show?prefecture=大分県", class: "btn btn-lg btn-outline-secondary #{@prefecture == '大分県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '宮崎県', "/hometowns/show?prefecture=宮崎県", class: "btn btn-lg btn-outline-secondary #{@prefecture == '宮崎県'}" %>
+          </div>
+          <div class="col-3">
+            <%= link_to '鹿児島県', "/hometowns/show?prefecture=鹿児島県", class: "btn btn-lg btn-outline-secondary #{@prefecture == '鹿児島県'}" %>
+          </div>
+          <div class="col-3">    
+            <%= link_to '沖縄県', "/hometowns/show?prefecture=沖縄県", class: "btn btn-lg btn-outline-secondary #{@prefecture == '沖縄県'}" %>
+          </div>
+        </div>
+      </div><br>
+    </div>
+  </div>
+</div><br>
+<div class="container">
+  <h2 class="text-primary">海外出身</h2>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-5">
+      <div class="card border-primary">
+        <div class="card-body"><br>
+          <div class="container">
+            <div class="row">
+              <div class="col-9">
+                <%= link_to '海外', "/hometowns/show?prefecture=海外", class: "btn btn-lg btn-warning float-right #{@prefecture == '海外'}" %>
+              </div>
+            </div>
+          </div><br>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<br><br>
