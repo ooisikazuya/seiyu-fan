@@ -1,32 +1,83 @@
-<h2>Sign up</h2>
-
+<div class="container">
+  <h1 class="bg-success text-white text-center">会員登録</h1>
+</div><br>
 <%= form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f| %>
   <%= render "devise/shared/error_messages", resource: resource %>
-
-  <div class="field">
-    <%= f.label :nickname %><br />
-    <%= f.text_field :nickname, autofocus: true %>
+  <div class="container">
+    <div class="row">      
+      <div class="col-5">
+        <div class="field">
+          <%= f.label :ニックネーム, class: "text-primary" %><br />
+          <%= f.text_field :nickname, class:"form-control border-primary", autofocus: true %>
+        </div>
+      </div>
+    </div>
+    <small id="nicknameHelp" class="form-text text-primary text-muted">声優コミュニティを利用する際に使用されます。</small>
+  </div><br>
+  <div class="container">
+    <div class="row">      
+      <div class="col-7">  
+        <div class="field">
+          <%= f.label :メールアドレス, class: "text-primary" %><br />
+          <%= f.email_field :email, class:"form-control border-primary", autocomplete: "email" %>
+        </div>
+      </div>
+    </div>
+  </div><br>
+  <div class="container">
+    <div class="row">      
+      <div class="col-7">  
+        <div class="field text-primary">
+          <%= f.label :パスワード %>
+          <% if @minimum_password_length %>
+          <lavel>(<%= @minimum_password_length %> 文字以上)</lavel>
+          <% end %><br />
+          <%= f.password_field :password, class:"form-control border-primary", autocomplete: "new-password" %>
+        </div>
+      </div>
+    </div>
+  </div><br>
+  <div class="container">
+    <div class="row">      
+      <div class="col-7"> 
+        <div class="field">
+          <%= f.label :もう1度パスワードを入力してください, class: "text-primary" %><br />
+          <%= f.password_field :password_confirmation, class:"form-control border-primary", autocomplete: "new-password" %>
+        </div>
+      </div>
+    </div>
+  </div><br>
+  <div class="container">
+    <label for="exampleInputVoiceActor" class="text-primary">好きな声優(3人まで)</label>
   </div>
-  <div class="field">
-    <%= f.label :email %><br />
-    <%= f.email_field :email, autocomplete: "email" %>
-  </div>
-  <div class="field">
-    <%= f.label :password %>
-    <% if @minimum_password_length %>
-    <em>(<%= @minimum_password_length %> characters minimum)</em>
-    <% end %><br />
-    <%= f.password_field :password, autocomplete: "new-password" %>
-  </div>
-
-  <div class="field">
-    <%= f.label :password_confirmation %><br />
-    <%= f.password_field :password_confirmation, autocomplete: "new-password" %>
-  </div>
-
-  <div class="actions">
-    <%= f.submit "Sign up" %>
-  </div>
+  <div class="container">
+    <div class="form-row">      
+      <div class="col-4">         
+        <select class="custom-select border-primary">
+          <option selected>選択してください</option>
+          <option>なまえ</option>
+        </select>
+      </div>
+      <div class="col-4">
+        <select class="custom-select border-primary">
+          <option selected>選択してください</option>
+          <option>なまえ</option>
+        </select>                       
+      </div>
+      <div class="col-4">
+        <select class="custom-select border-primary">
+          <option selected>選択してください</option>
+          <option>なまえ</option>
+        </select>                        
+      </div>
+    </div>
+  </div><br><br>  
+  <div class="container">
+    <div class="col-7">
+      <div class="actions">
+        <%= f.submit "登録", class: "btn btn-warning btn-lg float-right" %>
+      </div>
+    </div>
+  </div>  
 <% end %>
-
-<%= render "devise/shared/links" %>
+<br><br><br><br><br>
