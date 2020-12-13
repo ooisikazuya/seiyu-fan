@@ -11,11 +11,6 @@ class UsersControllerTest < ActionDispatch::IntegrationTest
     assert_response :success
   end
 
-  test "should get new" do
-    get voice_actors_new_url
-    assert_response :success
-  end
-
   test "should get edit" do
     get voice_actors_edit_url
     assert_response :success
