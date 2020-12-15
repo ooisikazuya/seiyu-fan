@@ -8,9 +8,9 @@
         <div class="card-body">
           <h2 class="text-primary">なまえ1</h2>
           <p>登録者数</p>
-          <div class="text-right">         
-            <a class="btn btn-warning btn-lg" href="#" role="button">投稿を見る</a>
-            <a class="btn btn-warning btn-lg" href="#" role="button">投稿する</a>
+          <div class="text-right">
+            <%= link_to "投稿を見る", "posts/show", class: 'btn btn-warning btn-lg' %>
+            <%= link_to "投稿する", new_post_path, class: 'btn btn-warning btn-lg' %>      
           </div> 
         </div>        
       </div><br>
