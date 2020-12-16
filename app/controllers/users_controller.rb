@@ -3,12 +3,10 @@ class UsersController < ApplicationController
   end
 
   def show
+    @user = current_user
   end
 
   def create
-  end
-
-  def edit
   end
 
   def update

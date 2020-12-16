@@ -2,7 +2,9 @@
   <h1 class="bg-success text-white text-center">会員登録</h1>
 </div><br>
 <%= form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f| %>
-  <%= render "devise/shared/error_messages", resource: resource %>
+  <div class="container">
+    <%= render "devise/shared/error_messages", resource: resource %>
+  </div>
   <div class="container">
     <div class="row">      
       <div class="col-5">
@@ -30,7 +32,7 @@
         <div class="field text-primary">
           <%= f.label :パスワード %>
           <% if @minimum_password_length %>
-          <lavel>(<%= @minimum_password_length %> 文字以上)</lavel>
+            <lavel>(<%= @minimum_password_length %> 文字以上)</lavel>
           <% end %><br />
           <%= f.password_field :password, class:"form-control border-primary", autocomplete: "new-password" %>
         </div>
@@ -73,9 +75,11 @@
     </div>
   </div><br><br>  
   <div class="container">
-    <div class="col-7">
-      <div class="actions">
-        <%= f.submit "登録", class: "btn btn-warning btn-lg float-right" %>
+    <div class="row">
+      <div class="col-7">
+        <div class="actions">
+          <%= f.submit "登録", class: "btn btn-warning btn-lg float-right" %>
+        </div>
       </div>
     </div>
   </div>  
