@@ -13,18 +13,14 @@
   <h3 class="text-primary">好きな声優</h3>
 </div>
 <div class="container">
-  <div class="row">      
-    <div class="col-4">          
-      <h4>なまえ</h4>              
-    </div>
-    <div class="col-4">          
-      <h4>なまえ</h4>              
-    </div>
-    <div class="col-4">          
-      <h4>なまえ</h4>              
-    </div>
-  </div>
+  <% @favorite_voice_actors.each do |favorite_voice_actor| %>          
+    <h4><%= "#{favorite_voice_actor.last_name} #{favorite_voice_actor.first_name}" %></h4>                
+  <% end %>
 </div><br><br>
 <div class="container">
-  <%= link_to '会員情報・パスワードの変更', edit_user_registration_path, class: "btn btn-warning btn-lg float-right" %>
+  <div class="row">
+    <div class="col-8">
+      <%= link_to '会員情報・パスワードの変更', edit_user_registration_path, class: "btn btn-warning btn-lg float-right" %>
+    </div>
+  </div>
 </div>
