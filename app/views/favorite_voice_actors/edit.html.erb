@@ -1,0 +1,32 @@
+<div class="container">
+  <h1 class="bg-success text-white text-center">好きな声優の変更</h1>
+</div><br> 
+
+<%= form_tag(favorite_voice_actors_path, method: :patch) do %>
+  <div class="container">
+    <label for="exampleInputVoiceActor" class="text-primary">好きな声優</label>
+  </div>
+  <div class="container">
+    <div class="form-row">      
+      <div class="col-4">
+        <%= select_tag 'favorite_voice_actor_id_1', options_for_select(@voice_actors_array, nil), class: 'custom-select border-primary' %>          
+      </div>
+      <div class="col-4">          
+        <%= select_tag 'favorite_voice_actor_id_2', options_for_select(@voice_actors_array, nil), class: 'custom-select border-primary' %>     
+      </div>
+      <div class="col-4">          
+        <%= select_tag 'favorite_voice_actor_id_3', options_for_select(@voice_actors_array, nil), class: 'custom-select border-primary' %>           
+      </div>
+    </div>
+  </div><br>　
+  <div class="container">
+    <div class="row">
+      <div class="col-7">
+        <div class="actions">
+          <%= submit_tag "更新する", class: "btn btn-warning btn-lg float-right" %>
+        </div>
+      </div>
+    </div>
+  </div><br><br>
+<% end %>
+</div><br><br>
