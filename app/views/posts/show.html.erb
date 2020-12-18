@@ -1,11 +1,17 @@
 <div class="container">
   <h1 class="bg-success text-white text-center">投稿一覧</h1>
+</div><br>
+<div class="container">
+  <% @favorite_voice_actors.each_with_index do |favorite_voice_actor,i| %>
+    <% if i == 0 %> 
+      <h2 class="text-primary"><%= "#{favorite_voice_actor.last_name}" "#{favorite_voice_actor.first_name}" %></h2>
+    <% end %>
+  <% end %>
 </div>
 <div class="container">
-　<h2 class="text-primary">なまえ1</h2>
-<div class="text-right">
-  <%= link_to "登録者一覧", voice_actor_users_path(current_user), class: 'btn btn-warning btn-lg' %>     
-</div> 
+  <div class="text-right">
+    <%= link_to "登録者一覧", voice_actor_users_path(current_user), class: 'btn btn-warning btn-lg' %>     
+  </div> 
 </div><br>
 <div class="container">
   <div class="row">

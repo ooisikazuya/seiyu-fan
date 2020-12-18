@@ -2,7 +2,11 @@
   <h1 class="bg-success text-white text-center">登録者一覧</h1> 
 </div><br>
 <div class="container">
-  <h2 class="text-primary">なまえ</h1> 
+  <% @favorite_voice_actors.each_with_index do |favorite_voice_actor,i| %>
+    <% if i == 0 %> 
+      <h2 class="text-primary"><%= "#{favorite_voice_actor.last_name}" "#{favorite_voice_actor.first_name}" %></h2>
+    <% end %>
+  <% end %>
 </div><br>
 <div class="container">   
   <div class="card border-dark">
@@ -13,10 +17,22 @@
             <table class="table">
               <tbody>
                 <tr>
-                  <td class="h4 text-primary">なまえ</td>
-                  <td>なまえ1</td>
-                  <td>なまえ2</td>
-                  <td>なまえ3</td>
+                  <td class="h4 text-primary"><%= @user.nickname %></td>
+                  <% @favorite_voice_actors.each_with_index do |favorite_voice_actor,i| %>
+                    <% if i == 0 %> 
+                      <td><%= "#{favorite_voice_actor.last_name}" "#{favorite_voice_actor.first_name}" %></td>
+                    <% end %>
+                  <% end %>
+                  <% @favorite_voice_actors.each_with_index do |favorite_voice_actor,i| %>
+                    <% if i == 1 %> 
+                      <td><%= "#{favorite_voice_actor.last_name}" "#{favorite_voice_actor.first_name}" %></td>
+                    <% end %>
+                  <% end %>
+                  <% @favorite_voice_actors.each_with_index do |favorite_voice_actor,i| %>
+                    <% if i == 2 %> 
+                      <td><%= "#{favorite_voice_actor.last_name}" "#{favorite_voice_actor.first_name}" %></td>
+                    <% end %>
+                  <% end %>
                 </tr>
                 <tr>
                   <td class="h4 text-primary">なまえ</td>                 
