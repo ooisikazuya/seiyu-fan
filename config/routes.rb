@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
   devise_for :users
-  resources :users, only: [:index, :show, :create, :edit, :update]
-  resources :posts, only: [:index, :show, :new, :create] 
+  resources :users, only: [:index, :show, :create, :update]
+  resources :posts, only: [:index, :show, :new, :create]
   resources :hometowns, only: [:index, :show]
   resources :voice_actors, only: [:index] do
     resources :users
