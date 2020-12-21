@@ -10,22 +10,24 @@
   <h3><%= @user.email %><h3>
 </div><br>
 <div class="container">
+  <div class="row">
+    <div class="col-5">
+      <%= link_to '登録情報の変更', edit_user_registration_path, class: "btn btn-warning btn-lg float-right" %>
+    </div>
+  </div>
+</div><br><br>
+<div class="container">
   <h2 class="text-primary">好きな声優</h2>
 </div>
 <div class="container">
   <% @favorite_voice_actors.each do |favorite_voice_actor| %>          
     <h3><%= "#{favorite_voice_actor.last_name} #{favorite_voice_actor.first_name}" %></h3>                
   <% end %>
-</div><br><br>
+</div><br>
 <div class="container">
   <div class="row">
-    <div class="col-8">
-      <%= link_to '会員情報・パスワードの変更', edit_user_registration_path, class: "btn btn-warning btn-lg float-right" %>
+    <div class="col-5">
+      <%= link_to '好きな声優を選択', edit_favorite_voice_actors_path, class: "btn btn-warning btn-lg float-right" %>
     </div>
   </div>
-  <div class="row">
-    <div class="col-8">
-      <%= link_to '好きな声優を変更する', edit_favorite_voice_actors_path, class: "btn btn-warning btn-lg float-right" %>
-    </div>
-  </div>
-</div>
+</div><br><br>
