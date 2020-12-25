@@ -9,27 +9,11 @@
 <%= form_tag(favorite_voice_actors_path, method: :patch) do %>
   <div class="container">
     <div class="form-row">
-      <div class="col-4">
-        <% 3.times do |i| %>
-          <% if i == 0 %> 
-            <%= select_tag 'favorite_voice_actor_id_1', options_for_select(@voice_actors_array, selected: @favorite_voice_actors[i]&.id), :prompt => "選択してください", class: 'custom-select border-primary' %>
-          <% end %>
-        <% end %>       
-      </div>
-      <div class="col-4">
-        <% 3.times do |i| %>
-          <% if i == 1 %>           
-            <%= select_tag 'favorite_voice_actor_id_2', options_for_select(@voice_actors_array, selected: @favorite_voice_actors[i]&.id), :prompt => "選択してください", class: 'custom-select border-primary' %>
-          <% end %>
-        <% end %>
-      </div>
-      <div class="col-4">
-        <% 3.times do |i| %>
-          <% if i == 2 %>           
-            <%= select_tag 'favorite_voice_actor_id_3', options_for_select(@voice_actors_array, selected: @favorite_voice_actors[i]&.id), :prompt => "選択してください", class: 'custom-select border-primary' %>
-          <% end %>
-        <% end %>
-      </div>
+      <% 3.times do |i| %>
+        <div class="col-4">
+          <%= select_tag "favorite_voice_actor_id_#{i + 1}", options_for_select(@voice_actors_array, selected: @favorite_voice_actors[i]&.id), :prompt => "選択してください", class: 'custom-select border-primary' %>      
+        </div>
+      <% end %>
     </div>
   </div><br>　
   <div class="container">

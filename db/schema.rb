@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_12_15_061449) do
+ActiveRecord::Schema.define(version: 2020_12_24_082914) do
 
   create_table "favorite_voice_actors", force: :cascade do |t|
     t.integer "user_id"
@@ -18,6 +18,14 @@ ActiveRecord::Schema.define(version: 2020_12_15_061449) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["voice_actor_id", "user_id"], name: "index_favorite_voice_actors_on_voice_actor_id_and_user_id", unique: true
+  end
+
+  create_table "posts", force: :cascade do |t|
+    t.integer "user_id"
+    t.integer "voice_actor_id"
+    t.text "message"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
   create_table "users", force: :cascade do |t|

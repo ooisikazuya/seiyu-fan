@@ -14,3 +14,21 @@
 //= require activestorage
 //= require turbolinks
 //= require_tree .
+//= require jquery 
+//= require jquery_ujs
+
+
+$(function() {
+  $("select").change(function() {
+    if ($(this).attr('id') == 'favorite_voice_actor_id_1') {
+      $('#favorite_voice_actor_id_2 option[value=' + $(this).val() + ']').remove();
+      $('#favorite_voice_actor_id_3 option[value=' + $(this).val() + ']').remove();
+    } else if ($(this).attr('id') == 'favorite_voice_actor_id_2') {
+      $('#favorite_voice_actor_id_1 option[value=' + $(this).val() + ']').remove();
+      $('#favorite_voice_actor_id_3 option[value=' + $(this).val() + ']').remove();
+    } else if ($(this).attr('id') == 'favorite_voice_actor_id_3') {
+      $('#favorite_voice_actor_id_2 option[value=' + $(this).val() + ']').remove();
+      $('#favorite_voice_actor_id_1 option[value=' + $(this).val() + ']').remove();
+    }
+  });
+});

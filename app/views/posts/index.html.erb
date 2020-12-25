@@ -6,9 +6,9 @@
     <div class="col-12">
       <div class="card border-primary">
         <div class="card-body">
-          <% @favorite_voice_actors.each_with_index do |favorite_voice_actor,i| %>
+          <% 3.times do |i| %>
             <% if i == 0 %> 
-              <h2 class="text-primary"><%= "#{favorite_voice_actor.last_name}" "#{favorite_voice_actor.first_name}" %></h2>
+              <h2 class="text-primary"><%= "#{@favorite_voice_actors[i].last_name}" "#{@favorite_voice_actors[i].first_name}" %></h2>
             <% end %>
           <% end %>
           <p>登録者数</p>
@@ -20,29 +20,29 @@
       </div><br>
       <div class="card border-primary">
         <div class="card-body">
-          <% @favorite_voice_actors.each_with_index do |favorite_voice_actor,i| %>
+          <% 3.times do |i| %>
             <% if i == 1 %> 
-              <h2 class="text-primary"><%= "#{favorite_voice_actor.last_name}" "#{favorite_voice_actor.first_name}" %></h2>
+              <h2 class="text-primary"><%= "#{@favorite_voice_actors[i].last_name}" "#{@favorite_voice_actors[i].first_name}" %></h2>
             <% end %>
           <% end %>         
           <p>登録者数</p> 
           <div class="text-right">
-            <a class="btn btn-warning btn-lg" href="#" role="button">投稿を見る</a>
-            <a class="btn btn-warning btn-lg" href="#" role="button">投稿する</a>              
+            <%= link_to "投稿を見る", "posts/show", class: 'btn btn-warning btn-lg' %>
+            <%= link_to "投稿する", new_post_path, class: 'btn btn-warning btn-lg' %>             
           </div>
         </div>          
       </div><br>
       <div class="card border-primary">
         <div class="card-body">
-          <% @favorite_voice_actors.each_with_index do |favorite_voice_actor,i| %>
+          <% 3.times do |i| %>
             <% if i == 2 %> 
-              <h2 class="text-primary"><%= "#{favorite_voice_actor.last_name}" "#{favorite_voice_actor.first_name}" %></h2>
+              <h2 class="text-primary"><%= "#{@favorite_voice_actors[i].last_name}" "#{@favorite_voice_actors[i].first_name}" %></h2>
             <% end %>
           <% end %>
           <p>登録者数</p>
-          <div class="text-right"> 
-            <a class="btn btn-warning btn-lg" href="#" role="button">投稿を見る</a>
-            <a class="btn btn-warning btn-lg" href="#" role="button">投稿する</a>
+          <div class="text-right">
+            <%= link_to "投稿を見る", "posts/show", class: 'btn btn-warning btn-lg' %>
+            <%= link_to "投稿する", new_post_path, class: 'btn btn-warning btn-lg' %>
           </div>
         </div>         
       </div>  
