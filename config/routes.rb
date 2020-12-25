@@ -15,11 +15,12 @@ Rails.application.routes.draw do
   resources :voice_actors, only: [:index] do
     resources :users
   end
-  resources :favorite_voice_actors, only: [] do
+  resources :favorite_voice_actors, only: [:index] do
     collection do
       get 'edit'
       patch 'update'
     end
+    resources 'posts', only: [:index]
   end
   root 'top#index'
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html

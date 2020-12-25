@@ -1,14 +1,6 @@
 class PostsController < ApplicationController
   def index
-    @user = current_user
-    favorite_voice_actor_ids = @user.favorite_voice_actors.pluck(:voice_actor_id)
-    @favorite_voice_actors = VoiceActor.where(id: favorite_voice_actor_ids)
-  end
-  
-  def show
-    @user = current_user
-    favorite_voice_actor_ids = @user.favorite_voice_actors.pluck(:voice_actor_id)
-    @favorite_voice_actors = VoiceActor.where(id: favorite_voice_actor_ids)
+    @voice_actor = VoiceActor.find(params[:favorite_voice_actor_id])
   end
 
   def new

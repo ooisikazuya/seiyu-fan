@@ -1,51 +1,77 @@
 <div class="container">
-  <h1 class="bg-success text-white text-center">声優コミュニティ</h1>
+  <h1 class="bg-success text-white text-center">投稿一覧</h1>
+</div><br>
+<div class="container">
+  <h2 class="text-primary"><%= "#{@voice_actor.last_name}" "#{@voice_actor.first_name}" %></h2>
+</div>
+<div class="container">
+  <div class="text-right">
+    <%= link_to "登録者一覧", voice_actor_users_path(@voice_actor.id), class: 'btn btn-warning btn-lg' %>   
+  </div> 
 </div><br>
 <div class="container">
   <div class="row">
     <div class="col-12">
       <div class="card border-primary">
-        <div class="card-body">
-          <% 3.times do |i| %>
-            <% if i == 0 %> 
-              <h2 class="text-primary"><%= "#{@favorite_voice_actors[i].last_name}" "#{@favorite_voice_actors[i].first_name}" %></h2>
-            <% end %>
-          <% end %>
-          <p>登録者数</p>
-          <div class="text-right">
-            <%= link_to "投稿を見る", "posts/show", class: 'btn btn-warning btn-lg' %>
-            <%= link_to "投稿する", new_post_path, class: 'btn btn-warning btn-lg' %>      
-          </div> 
-        </div>        
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <h5>投稿内容</h5>
+            </div>
+            <div class="col-12">
+              <h5 class="float-right">なまえ</h5>
+            </div>
+            <div class="col-12">
+              <h6 class="float-right">○○○○年○月○日</h6>
+            </div>  
+          </div>
+        </div>   
       </div><br>
       <div class="card border-primary">
-        <div class="card-body">
-          <% 3.times do |i| %>
-            <% if i == 1 %> 
-              <h2 class="text-primary"><%= "#{@favorite_voice_actors[i].last_name}" "#{@favorite_voice_actors[i].first_name}" %></h2>
-            <% end %>
-          <% end %>         
-          <p>登録者数</p> 
-          <div class="text-right">
-            <%= link_to "投稿を見る", "posts/show", class: 'btn btn-warning btn-lg' %>
-            <%= link_to "投稿する", new_post_path, class: 'btn btn-warning btn-lg' %>             
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <h5>投稿内容</h5>
+            </div>
+            <div class="col-12">
+              <h5 class="float-right">なまえ</h5>
+            </div>
+            <div class="col-12">
+              <h6 class="float-right">○○○○年○月○日</h6>
+            </div>  
           </div>
-        </div>          
+        </div>
+      </div><br>
+      <div class="card border-primary"> 
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <h5>投稿内容</h5>
+            </div>
+            <div class="col-12">
+              <h5 class="float-right">なまえ</h5>
+            </div>
+            <div class="col-12">
+              <h6 class="float-right">○○○○年○月○日</h6>
+            </div>  
+          </div>
+        </div>  
       </div><br>
       <div class="card border-primary">
-        <div class="card-body">
-          <% 3.times do |i| %>
-            <% if i == 2 %> 
-              <h2 class="text-primary"><%= "#{@favorite_voice_actors[i].last_name}" "#{@favorite_voice_actors[i].first_name}" %></h2>
-            <% end %>
-          <% end %>
-          <p>登録者数</p>
-          <div class="text-right">
-            <%= link_to "投稿を見る", "posts/show", class: 'btn btn-warning btn-lg' %>
-            <%= link_to "投稿する", new_post_path, class: 'btn btn-warning btn-lg' %>
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <h5>投稿内容</h5>
+            </div>
+            <div class="col-12">
+              <h5 class="float-right">なまえ</h5>
+            </div>
+            <div class="col-12">
+              <h6 class="float-right">○○○○年○月○日</h6>
+            </div>  
           </div>
-        </div>         
-      </div>  
+        </div>   
+      </div><br>
     </div>
   </div>
 </div><br><br>

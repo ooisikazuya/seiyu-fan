@@ -1,0 +1,21 @@
+<div class="container">
+  <h1 class="bg-success text-white text-center">声優コミュニティ</h1>
+</div><br>
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      <% @favorite_voice_actors.each do |voice_actor| %>
+        <div class="card border-primary">
+          <div class="card-body">
+            <h2 class="text-primary"><%= "#{voice_actor.last_name}" "#{voice_actor.first_name}" %></h2>
+            <p>登録者数</p>
+            <div class="text-right">
+              <%= link_to "投稿を見る", favorite_voice_actor_posts_path(voice_actor), class: 'btn btn-warning btn-lg' %>
+              <%= link_to "投稿する", new_post_path, class: 'btn btn-warning btn-lg' %>      
+            </div> 
+          </div>        
+        </div><br>
+      <% end %>      
+    </div>
+  </div>
+</div><br><br>
