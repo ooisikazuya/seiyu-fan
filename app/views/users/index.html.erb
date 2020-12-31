@@ -2,11 +2,7 @@
   <h1 class="bg-success text-white text-center">登録者一覧</h1> 
 </div><br>
 <div class="container">
-  <% @favorite_voice_actors.each_with_index do |favorite_voice_actor,i| %>
-    <% if i == 0 %> 
-      <h2 class="text-primary"><%= "#{favorite_voice_actor.last_name}" "#{favorite_voice_actor.first_name}" %></h2>
-    <% end %>
-  <% end %>
+  <h2 class="text-primary"><%= "#{@voice_actor.last_name}" "#{@voice_actor.first_name}" %></h2>
 </div><br>
 <div class="container">   
   <div class="card border-dark">
@@ -33,7 +29,7 @@
                       <td><%= "#{favorite_voice_actor.last_name}" "#{favorite_voice_actor.first_name}" %></td>
                     <% end %>
                   <% end %>
-                </tr>
+                <tr>
                 <tr>
                   <td class="h4 text-primary">なまえ</td>                 
                   <td>なまえ1</td>

@@ -16,10 +16,8 @@
 //= require_tree .
 //= require jquery 
 //= require jquery_ujs
-//$(window).on('load', function() {    $('select').on('click', function() {   $('select[name="favorite_voice_actor_id_1 favorite_voice_actor_id_2 favorite_voice_actor_id_3"] option[value=' + $("select").val() + ']').remove();
-//})
-//});
-//$(function() {
+
+
 $(function() {
   $(document).on('focus', 'select', function() {
     const actorName1 = $("#favorite_voice_actor_id_1").val();
