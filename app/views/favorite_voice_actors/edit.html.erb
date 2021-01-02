@@ -11,7 +11,7 @@
     <div class="form-row">
       <% 3.times do |i| %>
         <div class="col-4">
-          <%= select_tag "favorite_voice_actor_id_#{i + 1}", options_for_select(@voice_actors_array, selected: @favorite_voice_actors[i]&.id), :prompt => "選択してください", class: 'custom-select border-primary' %>      
+          <%= select_tag "favorite_voice_actor_id_#{i + 1}", options_for_select(@voice_actors_array, selected: @favorite_voice_actors[i]&.id), include_blank: "選択してください", class: 'custom-select border-primary' %>      
         </div>
       <% end %>
     </div>
