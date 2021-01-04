@@ -14,20 +14,8 @@
               <tbody>
                 <tr>
                   <td class="h4 text-primary"><%= @user.nickname %></td>
-                  <% @favorite_voice_actors.each_with_index do |favorite_voice_actor,i| %>
-                    <% if i == 0 %> 
-                      <td><%= "#{favorite_voice_actor.last_name}" "#{favorite_voice_actor.first_name}" %></td>
-                    <% end %>
-                  <% end %>
-                  <% @favorite_voice_actors.each_with_index do |favorite_voice_actor,i| %>
-                    <% if i == 1 %> 
-                      <td><%= "#{favorite_voice_actor.last_name}" "#{favorite_voice_actor.first_name}" %></td>
-                    <% end %>
-                  <% end %>
-                  <% @favorite_voice_actors.each_with_index do |favorite_voice_actor,i| %>
-                    <% if i == 2 %> 
-                      <td><%= "#{favorite_voice_actor.last_name}" "#{favorite_voice_actor.first_name}" %></td>
-                    <% end %>
+                  <% @favorite_voice_actors.each do |voice_actor| %>                    
+                      <td><%= "#{voice_actor.last_name}" "#{voice_actor.first_name}" %></td>                                                         
                   <% end %>
                 <tr>
                 <tr>

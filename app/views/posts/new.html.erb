@@ -4,10 +4,12 @@
 <div class="container">
   <div class="row">
     <div class="col-12">
-      <div class="form-group">
-        <textarea class="form-control border-primary" id="exampleFormControlTextarea1" rows="3"></textarea><br>
-        <a class="btn btn-warning btn-lg float-right" href="#" role="button">投稿する</a>
-      </div>
+      <%= form_for(@post) do |f| %>
+        <div class="form-group">
+          <%= f.text_area :message, class: "form-control border-primary", id: "exampleFormControlTextarea1", rows:16 %><br>
+          <%= f.submit "投稿する", class: "btn btn-warning btn-lg float-right" %>
+        </div>
+      <% end %>
     </div>
   </div>  
 </div><br><br>

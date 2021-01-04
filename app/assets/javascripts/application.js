@@ -18,16 +18,22 @@
 //= require jquery_ujs
 
 
-$(function() {
-  const actorName1 = $("#favorite_voice_actor_id_1").val();
-  const actorName2 = $("#favorite_voice_actor_id_2").val();
-  const actorName3 = $("#favorite_voice_actor_id_3").val();
-  $('#favorite_voice_actor_id_1 option[value=' + actorName2  + ']').hide();
-  $('#favorite_voice_actor_id_1 option[value=' + actorName3  + ']').hide();
-  $('#favorite_voice_actor_id_2 option[value=' + actorName1  + ']').hide();
-  $('#favorite_voice_actor_id_2 option[value=' + actorName3  + ']').hide();
-  $('#favorite_voice_actor_id_3 option[value=' + actorName1  + ']').hide();
-  $('#favorite_voice_actor_id_3 option[value=' + actorName2  + ']').hide();
+document.addEventListener("turbolinks:load", function() {
+  let actorName1 = $("#favorite_voice_actor_id_1").val();
+  let actorName2 = $("#favorite_voice_actor_id_2").val();
+  let actorName3 = $("#favorite_voice_actor_id_3").val();
+  if (actorName1) {
+    $('#favorite_voice_actor_id_2 option[value=' + actorName1  + ']').hide();
+    $('#favorite_voice_actor_id_3 option[value=' + actorName1  + ']').hide();
+  }
+  if (actorName2) {
+    $('#favorite_voice_actor_id_1 option[value=' + actorName2  + ']').hide();
+    $('#favorite_voice_actor_id_3 option[value=' + actorName2  + ']').hide();
+  }
+  if (actorName3) {
+    $('#favorite_voice_actor_id_1 option[value=' + actorName3  + ']').hide();
+    $('#favorite_voice_actor_id_2 option[value=' + actorName3  + ']').hide();
+  }
   $(document).on('change', 'select', function() {
     if ($(this).attr('id') == 'favorite_voice_actor_id_1') {
       $('#favorite_voice_actor_id_2 option[value=' + $(this).val() + ']').hide();
