@@ -36,20 +36,35 @@ document.addEventListener("turbolinks:load", function() {
   }
   $(document).on('change', 'select', function() {
     if ($(this).attr('id') == 'favorite_voice_actor_id_1') {
-      $('#favorite_voice_actor_id_2 option[value=' + $(this).val() + ']').hide();
-      $('#favorite_voice_actor_id_2 option[value=' + actorName1 + ']').show();
-      $('#favorite_voice_actor_id_3 option[value=' + $(this).val() + ']').hide();
-      $('#favorite_voice_actor_id_3 option[value=' + actorName1 + ']').show();
+      if ($(this).val()) {
+        $('#favorite_voice_actor_id_2 option[value=' + $(this).val() + ']').hide();
+        $('#favorite_voice_actor_id_3 option[value=' + $(this).val() + ']').hide();
+      }
+      if (actorName1) {
+        $('#favorite_voice_actor_id_2 option[value=' + actorName1 + ']').show();
+        $('#favorite_voice_actor_id_3 option[value=' + actorName1 + ']').show();
+      }
+      actorName1 = $(this).val();
     } else if ($(this).attr('id') == 'favorite_voice_actor_id_2') {
-      $('#favorite_voice_actor_id_1 option[value=' + $(this).val() + ']').hide();
-      $('#favorite_voice_actor_id_1 option[value=' + actorName2 + ']').show();
-      $('#favorite_voice_actor_id_3 option[value=' + $(this).val() + ']').hide();
-      $('#favorite_voice_actor_id_3 option[value=' + actorName2 + ']').show();
+      if ($(this).val()) {
+        $('#favorite_voice_actor_id_1 option[value=' + $(this).val() + ']').hide();
+        $('#favorite_voice_actor_id_3 option[value=' + $(this).val() + ']').hide();
+      }
+      if (actorName2) {
+        $('#favorite_voice_actor_id_1 option[value=' + actorName2 + ']').show();
+        $('#favorite_voice_actor_id_3 option[value=' + actorName2 + ']').show();
+      }
+      actorName2 = $(this).val();
     } else if ($(this).attr('id') == 'favorite_voice_actor_id_3') {
-      $('#favorite_voice_actor_id_1 option[value=' + $(this).val() + ']').hide();
-      $('#favorite_voice_actor_id_1 option[value=' + actorName3 + ']').show();
-      $('#favorite_voice_actor_id_2 option[value=' + $(this).val() + ']').hide();
-      $('#favorite_voice_actor_id_2 option[value=' + actorName3 + ']').show();
+      if ($(this).val()) {
+        $('#favorite_voice_actor_id_1 option[value=' + $(this).val() + ']').hide();
+        $('#favorite_voice_actor_id_2 option[value=' + $(this).val() + ']').hide();
+      }
+      if (actorName3) {
+        $('#favorite_voice_actor_id_1 option[value=' + actorName3 + ']').show();
+        $('#favorite_voice_actor_id_2 option[value=' + actorName3 + ']').show();
+      }
+      actorName3 = $(this).val();
     }
   });
 });
