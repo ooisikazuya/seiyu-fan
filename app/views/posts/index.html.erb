@@ -17,7 +17,7 @@
           <div class="container">
             <div class="row">
               <div class="col-12">
-                <%= raw(post.message.gsub(/\R/, "<br>")) %>
+                <%= simple_format(post.message, sanitize: true) %>
               </div>
               <div class="col-12">
                 <h5 class="float-right"><%= post.user.nickname %></h5>
