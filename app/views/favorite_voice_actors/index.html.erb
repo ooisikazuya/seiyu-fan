@@ -7,8 +7,7 @@
       <% @favorite_voice_actors.each do |voice_actor| %>
         <div class="card border-primary">
           <div class="card-body">
-            <h2 class="text-primary"><%= "#{voice_actor.last_name}" "#{voice_actor.first_name}" %></h2>
-            <p>登録者数</p>
+            <h2 class="text-primary"><%= "#{voice_actor.last_name}" "#{voice_actor.first_name}" %></h2><br>
             <div class="text-right">
               <%= link_to "投稿を見る", favorite_voice_actor_posts_path(voice_actor), class: 'btn btn-warning btn-lg' %>
               <%= link_to "投稿する", new_favorite_voice_actor_post_path(voice_actor), class: 'btn btn-warning btn-lg' %>      

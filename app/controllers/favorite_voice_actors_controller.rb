@@ -13,7 +13,7 @@ class FavoriteVoiceActorsController < ApplicationController
   end
 
   def update
-    current_user.favorite_voice_actors.delete_all
+    current_user.favorite_voice_actors.destroy_all
     FavoriteVoiceActor.create(user: current_user, voice_actor_id: params['favorite_voice_actor_id_1'])
     FavoriteVoiceActor.create(user: current_user, voice_actor_id: params['favorite_voice_actor_id_2'])
     FavoriteVoiceActor.create(user: current_user, voice_actor_id: params['favorite_voice_actor_id_3'])

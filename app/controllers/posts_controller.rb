@@ -1,7 +1,7 @@
 class PostsController < ApplicationController
   def index
     @voice_actor = VoiceActor.find(params[:favorite_voice_actor_id])
-    @posts = Post.all
+    @posts = @voice_actor.posts.all
   end
 
   def new

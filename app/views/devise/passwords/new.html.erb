@@ -1,5 +1,5 @@
 <div class="container">
-  <h2 class="text-primary">Forgot your password?</h2>
+  <h5 class="text-danger">*パスワードをお忘れの際はメールアドレスを入力して送信してください。</h3>
 </div><br>
 <%= form_for(resource, as: resource_name, url: password_path(resource_name), html: { method: :post }) do |f| %>
   <%= render "devise/shared/error_messages", resource: resource %>
@@ -14,9 +14,9 @@
     </div>
   </div><br><br>
   <div class="container">
-    <div class="col-8">
+    <div class="col-7">
       <div class="actions">
-        <%= f.submit "Send me reset password instructions", class: "btn btn-warning btn-lg float-right" %>
+        <%= f.submit "送信する", class: "btn btn-warning btn-lg float-right" %>
       </div>
     </div>
   </div>  
