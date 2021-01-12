@@ -1,2 +1,2 @@
 # アプリ名
-### SEIYU-FAN 
+### SEIYU-FAN
