@@ -9,11 +9,11 @@ Rails.application.routes.draw do
     get "sign_out", :to => "users/sessions#destroy" 
   end
 
-  resources :users, only: [:index, :show, :create, :update]
+  resource :user, only: [:show]
   resources :posts, only: [:index, :show, :new, :create]
   resources :hometowns, only: [:index, :show]
   resources :voice_actors, only: [:index] do
-    resources :users
+    resources :users, only: [:index]
   end
   resources :favorite_voice_actors, only: [:index] do
     collection do
