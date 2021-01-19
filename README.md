@@ -25,7 +25,7 @@
 ## 使い方
 - **出身地丸わかり表**
 
-https://user-images.githubusercontent.com/74053238/105005976-5e9fb680-5a79-11eb-88d7-ce09e6721f42.png
+![スクリーンショット 2021-01-19 16.22.02](https://user-images.githubusercontent.com/74053238/105005976-5e9fb680-5a79-11eb-88d7-ce09e6721f42.png)
 
 都道府県一覧から出身地別に声優の一覧を見ることができます。
 
@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/74053238/105005976-5e9fb680-5a79-11eb-
 
 - **声優一覧表**
 
-https://user-images.githubusercontent.com/74053238/105006064-78d99480-5a79-11eb-99f1-4d1e3e285d26.png
+![スクリーンショット 2021-01-19 16.25.12](https://user-images.githubusercontent.com/74053238/105006064-78d99480-5a79-11eb-99f1-4d1e3e285d26.png)
 
 シンプルな一覧表です。
 
@@ -41,7 +41,7 @@ Wikipedia、Twitterのリンクが声優毎に載っているのですぐに閲�
 
 - **声優コミュニティ**
 
-https://user-images.githubusercontent.com/74053238/105006261-c0f8b700-5a79-11eb-8e2d-6f7c282ce770.png
+![スクリーンショット 2021-01-19 17.01.27](https://user-images.githubusercontent.com/74053238/105006261-c0f8b700-5a79-11eb-8e2d-6f7c282ce770.png)
 
 
 
