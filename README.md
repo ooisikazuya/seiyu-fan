@@ -61,5 +61,6 @@ Wikipedia、Twitterのリンクが声優毎に載っているのですぐに閲�
 - Ruby on Rails 5.2.4.4
 
 ### デプロイ
-- heroku 7.47.7 
-URL:https://guarded-mesa-01785.herokuapp.com
+- heroku 7.47.7
+
+  URL:https://guarded-mesa-01785.herokuapp.com
