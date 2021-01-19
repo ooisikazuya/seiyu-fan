@@ -5,8 +5,13 @@
   <h2 class="text-primary"><%= "#{@voice_actor.last_name}" "#{@voice_actor.first_name}" %></h2>
 </div>
 <div class="container">
-  <div class="text-right">
-    <%= link_to "登録者一覧", voice_actor_users_path(@voice_actor.id), class: 'btn btn-warning btn-lg' %>   
+  <div class="row">
+    <div class="col-9">
+      <%= link_to "投稿する", new_favorite_voice_actor_post_path(@voice_actor.id), class: 'btn btn-warning btn-lg float-right' %>
+    </div>
+    <div class="col-3">
+      <%= link_to "登録者一覧", voice_actor_users_path(@voice_actor.id), class: 'btn btn-warning btn-lg' %>
+    </div>   
   </div> 
 </div><br>
 <div class="container">

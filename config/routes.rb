@@ -9,18 +9,17 @@ Rails.application.routes.draw do
     get "sign_out", :to => "users/sessions#destroy" 
   end
 
-  resources :users, only: [:index, :show, :create, :update]
-  resources :posts, only: [:index, :show, :new, :create]
+  resource :user, only: [:show]
   resources :hometowns, only: [:index, :show]
   resources :voice_actors, only: [:index] do
-    resources :users
+    resources :users, only: [:index]
   end
   resources :favorite_voice_actors, only: [:index] do
     collection do
       get 'edit'
       patch 'update'
     end
-    resources 'posts', only: [:index, :new, :create]
+    resources :posts, only: [:index, :new, :create]
   end
   root 'top#index'
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
