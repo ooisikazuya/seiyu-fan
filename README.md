@@ -49,7 +49,7 @@ Wikipedia、Twitterのリンクが声優毎に載っているのですぐに閲�
 
 好きな声優は３人まで選ぶことができます。
 
-## 使用技術
+# 使用技術
 ### フロントエンド
 - HTML/CSS
 - JavaScript/jQuery
