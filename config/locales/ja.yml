@@ -15,3 +15,12 @@ ja:
           other: "<strong>1-%{count}</strong>/%{count}人中"
       more_pages:
         display_entries: "<strong>%{first}-%{last}</strong>/%{total}人中"
+  activerecord:
+      models:
+        user: ユーザー
+      attributes:
+        user:
+          nickname: ニックネーム
+          email: メールアドレス
+          password: パスワード
+          password_confirmation: パスワード
