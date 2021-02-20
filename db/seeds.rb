@@ -37,7 +37,7 @@
     first_name_kana: "ちなつ",
     prefecture: "鹿児島県",
     address: "南九州市",
-    wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%84%9B%E6%B2%B3%E9%87%8C%E8%8A%B1%E5%AD%90",
+    wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%B5%A4%EF%A8%91%E5%8D%83%E5%A4%8F",
     twitter_url: "https://twitter.com/R172"
   },
   {
