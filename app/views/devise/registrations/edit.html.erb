@@ -1,7 +1,6 @@
 <div class="container">
   <h1 class="bg-success text-white text-center">会員情報の変更</h1>
 </div><br> 
-
 <%= form_for(resource, as: resource_name, url: registration_path(resource_name), html: { method: :put }) do |f| %>
   <div class="container">
     <%= render "devise/shared/error_messages", resource: resource %>
@@ -35,7 +34,7 @@
         <div class="field text-primary">
           <%= f.label :新しいパスワード %>
           <% if @minimum_password_length %>
-            <lavel>(<%= @minimum_password_length %>文字以上)</lavel>
+            <lavel>（ <%= @minimum_password_length %>文字以上 ）</lavel>
           <% end %><br />
           <%= f.password_field :password, class:"form-control border-primary", autocomplete: "new-password" %>         
         </div>
@@ -55,9 +54,9 @@
   <div class="container">
     <div class="row">      
       <div class="col-7"> 
-        <div class="field text-primary">
-          <%= f.label :現在のパスワード %><br /><lavel>(変更するには現在のパスワードが必要です)</lavel><br />
-          <%= f.password_field :current_password, class:"form-control border-primary", autocomplete: "current-password" %>
+        <div class="field text-danger">
+          <%= f.label :現在のパスワード %><br /><lavel>（ 会員情報の変更をするには現在のパスワードが必要です ）</lavel><br />
+          <%= f.password_field :current_password, class:"form-control border-danger", autocomplete: "current-password" %>
         </div>
       </div>
     </div>

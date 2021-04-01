@@ -20,8 +20,12 @@
   <h2 class="text-primary text-center">好きな声優</h2>
 </div>
 <div class="container">
-  <% @favorite_voice_actors.each do |favorite_voice_actor| %>          
-    <h3 class="text-center"><%= "#{favorite_voice_actor.last_name} #{favorite_voice_actor.first_name}" %></h3>                
+  <% if @favorite_voice_actors.present? %>
+    <% @favorite_voice_actors.each do |favorite_voice_actor| %>          
+      <h3 class="text-center"><%= "#{favorite_voice_actor.last_name} #{favorite_voice_actor.first_name}" %></h3>                
+    <% end %>
+  <% else %>
+    <h3 class= "text-danger text-center">選択されていません。<h3>
   <% end %>
 </div><br>
 <div class="container">
