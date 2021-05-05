@@ -1,20 +1,55 @@
-<br>
-<div class="container">
-  <h1 class="text-center text-success">声優好きの人も</h1><br>
-  <h1 class="text-center text-success">声優をよく知らない人も</h1><br> 
-  <h1 class="text-center text-success">きっと楽しめる</h1><br>  
-</div><br><br>
-<div class="container">
-  <p class="text-center text-primary">このアプリでは、声優の出身地を都道府県別に調べたり、気になった声優のウィキペディアやツイッターをすぐに見ることができます。</p><br>
-  <p class="text-center text-primary">また、会員登録をすればあなたの好きな声優について仲間と語り合えるコミュニティを利用することができます。</p>
-  <p class="text-center text-primary">声優をよく知らない方も声優を知るいいきっかけになればと思います。</p>
-</div><br>
-<div class="container">
-  <div class="row"> 
-    <div class="col-7">
-    <% unless user_signed_in? %>   
-      <%= link_to "今すぐ登録", new_user_registration_path, class: 'btn btn-warning btn-lg float-right' %>
-    <% end %>
+<% unless user_signed_in? %>
+  <div class="container">
+    <h5 class="text-center bg-warning">テストユーザー情報➡︎（ニックネーム）kazu（メールアドレス）ttttt@ttttt（パスワード）abcdefg</h5>
+  </div><br>
+  <div class="container">
+    <h2 class="text-center text-success">声優好きの人も声優をよく知らない人もきっと楽しめる！！</h2><br>  
+  </div><br>
+  <div class="container">
+    <div class="card border-primary">
+      <div class="container">
+        <p class="text-primary">このアプリでは、声優の出身地を都道府県別に調べたり、気になった声優のウィキペディアやツイッターをすぐに見ることができます。</p>
+        <p class="text-primary">また、会員登録をすればあなたの好きな声優について仲間と語り合えるコミュニティを利用することができます。</p>
+        <p class="text-primary">声優をよく知らない方も声優を知るいいきっかけになればと思います。</p>
+      </div>
+    </div><br><br><br>
+    <h2 class="text-center text-success">まずは声優を知るところから始めよう！！</h2><br>
+    <div class="row"> 
+      <div class="col-5">
+        <%= link_to "声優一覧表へ", voice_actors_path, class: 'btn btn-warning btn-lg float-right' %>
+      </div>
+      <div class="col-7">
+        <%= link_to "出身地丸分かり表へ", hometowns_path, class: 'btn btn-warning btn-lg' %>
+      </div>
+    </div><br><br>
+  </div><br><br>
+<% end %>
+<% if user_signed_in? %>
+  <div class="container"> 
+    <h1 class="bg-success text-white text-center">声優コミュニティを使おう！</h2><br>
+    <h2 class="text-primary">声優コミュニティの使い方</h2><br>
+    <ol>
+      <li class="h4">このページのすぐ下の”好きな声優を選択”ボタン、または会員情報のページの ”好きな声優を選択” ボタンをクリック！</li><br>
+      <li class="h4">好きな声優を選択したら声優コミュニティのページへ！</li><br>
+      <li class="h4">投稿一覧と投稿フォームが声優別に分かれているよ！さらに、投稿一覧にある”登録者一覧”ボタンをクリックすると、同じ声優を選択しているユーザーが他にどの人が好きなのか知ることもできるよ！</li>
+    </ol>
+  </div><br>
+  <div class="container"> 
+    <div class="row"> 
+      <div class="col-8 d-flex align-items-center">
+        <h3 class="text-primary">好きな声優を選択したい方はこちらから➡︎</h3>
+      </div>
+      <div class="col-4">
+        <%= link_to "好きな声優を選択", edit_favorite_voice_actors_path, class: 'btn btn-warning btn-lg' %>
+      </div>
+    </div><br>
+    <div class="row"> 
+      <div class="col-8 d-flex align-items-center">
+        <h3 class="text-primary">声優コミュニティをご利用の方はこちらから➡︎</h3>
+      </div>
+      <div class="col-4">
+        <%= link_to "声優コミュニティへ", '/favorite_voice_actors', class: 'btn btn-warning btn-lg' %>
+      </div>
     </div>
-  </div>
-</div><br><br>         
+  </div><br><br>
+<% end %>        
