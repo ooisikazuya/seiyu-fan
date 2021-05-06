@@ -4,7 +4,7 @@ class VoiceActorsController < ApplicationController
     @voice_actors = if @kana_row == 'あ'
                       VoiceActor.where('last_name_kana like ? or last_name_kana like ? or last_name_kana like ? or last_name_kana like ? or last_name_kana like ?', "あ%", "い%", "う%", "え%", "お%").page(params[:page]).per(10)
                     elsif @kana_row == 'か'
-                      VoiceActor.where('last_name_kana like ? or last_name_kana like ? or last_name_kana like ? or last_name_kana like ? or last_name_kana like ?', "か%", "き%", "く%", "け%", "こ%").page(params[:page]).per(10)                      
+                      VoiceActor.where('last_name_kana like ? or last_name_kana like ? or last_name_kana like ? or last_name_kana like ? or last_name_kana like ? or last_name_kana like ? or last_name_kana like ?', "か%", "き%", "ぎ%", "く%", "け%", "げ%", "こ%").page(params[:page]).per(10)                      
                     elsif @kana_row == 'さ'
                       VoiceActor.where('last_name_kana like ? or last_name_kana like ? or last_name_kana like ? or last_name_kana like ? or last_name_kana like ?', "さ%", "し%", "す%", "せ%", "そ%").page(params[:page]).per(10)                     
                     elsif @kana_row == 'た'
@@ -12,7 +12,7 @@ class VoiceActorsController < ApplicationController
                     elsif @kana_row == 'な'
                       VoiceActor.where('last_name_kana like ? or last_name_kana like ? or last_name_kana like ? or last_name_kana like ? or last_name_kana like ?', "な%", "に%", "ぬ%", "ね%", "の%").page(params[:page]).per(10)                     
                     elsif @kana_row == 'は'
-                      VoiceActor.where('last_name_kana like ? or last_name_kana like ? or last_name_kana like ? or last_name_kana like ? or last_name_kana like ?', "は%", "ひ%", "ふ%", "へ%", "ほ%").page(params[:page]).per(10)                      
+                      VoiceActor.where('last_name_kana like ? or last_name_kana like ? or last_name_kana like ? or last_name_kana like ? or last_name_kana like ? or last_name_kana like ?', "は%", "ぱ%", "ひ%", "ふ%", "へ%", "ほ%").page(params[:page]).per(10)                      
                     elsif @kana_row == 'ま'
                       VoiceActor.where('last_name_kana like ? or last_name_kana like ? or last_name_kana like ? or last_name_kana like ? or last_name_kana like ?', "ま%", "み%", "む%", "め%", "も%").page(params[:page]).per(10)                      
                     elsif @kana_row == 'や'

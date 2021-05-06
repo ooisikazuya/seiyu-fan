@@ -16,7 +16,8 @@
     prefecture: "神奈川県",
     address: "横浜市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%84%9B%E6%B2%B3%E9%87%8C%E8%8A%B1%E5%AD%90",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「かいけつゾロリ」イシシ役など"
   },
   {
     id: 2,
@@ -27,7 +28,8 @@
     prefecture: "福井県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%92%BC%E4%BA%95%E7%BF%94%E5%A4%AA",
-    twitter_url: "https://twitter.com/shouta0811aoi"
+    twitter_url: "https://twitter.com/shouta0811aoi",
+    masterpiece: "「うたの☆プリンスさまっ♪」美風藍役など"
   },
   {
     id: 3,
@@ -38,7 +40,8 @@
     prefecture: "鹿児島県",
     address: "南九州市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%B5%A4%EF%A8%91%E5%8D%83%E5%A4%8F",
-    twitter_url: "https://twitter.com/R172"
+    twitter_url: "https://twitter.com/R172",
+    masterpiece: "「呪術廻戦」三輪霞役など"
   },
   {
     id: 4,
@@ -49,7 +52,8 @@
     prefecture: "千葉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%BE%BD%E6%A0%B9%E5%81%A5%E6%B2%BB",
-    twitter_url: "https://twitter.com/kenji__akabane"
+    twitter_url: "https://twitter.com/kenji__akabane",
+    masterpiece: "「宇崎ちゃんは遊びたい!」桜井真一役など"
   },
   {
     id: 5,
@@ -60,7 +64,8 @@
     prefecture: "埼玉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%98%8E%E5%9D%82%E8%81%A1%E7%BE%8E",
-    twitter_url: "https://twitter.com/akekodao"
+    twitter_url: "https://twitter.com/akekodao",
+    masterpiece: "「ムヒョとロージーの魔法律相談事務所」リオ役など"
   },
   {
     id: 6,
@@ -71,7 +76,8 @@
     prefecture: "福岡県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%BA%BB%E5%80%89%E3%82%82%E3%82%82",
-    twitter_url: "https://twitter.com/trysail_staff"
+    twitter_url: "https://twitter.com/trysail_staff",
+    masterpiece: "「マギアレコード 魔法少女まどか☆マギカ外伝」環いろは役など"
   },
   {
     id: 7,
@@ -82,7 +88,8 @@
     prefecture: "岩手県",
     address: "盛岡市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%B5%85%E6%B2%BC%E6%99%8B%E5%A4%AA%E9%83%8E",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ダイヤのA」倉持洋一役など"
   },
   {
     id: 8,
@@ -93,7 +100,8 @@
     prefecture: "福岡県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%98%BF%E6%BE%84%E4%BD%B3%E5%A5%88",
-    twitter_url: "https://twitter.com/0812asumikana"
+    twitter_url: "https://twitter.com/0812asumikana",
+    masterpiece: "「ニセコイ」橘万里花役など"
   },
   {
     id: 9,
@@ -104,7 +112,8 @@
     prefecture: "東京都",
     address: "北区",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%BA%BB%E7%94%9F%E7%BE%8E%E4%BB%A3%E5%AD%90",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「サザエさん」磯野フネ役など"
   },
   {
     id: 10,
@@ -115,7 +124,8 @@
     prefecture: "栃木県",
     address: "足利市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%98%BF%E9%83%A8%E6%95%A6",
-    twitter_url: "https://twitter.com/abe_atsuize"
+    twitter_url: "https://twitter.com/abe_atsuize",
+    masterpiece: "「とある魔術の禁書目録」上条当麻役など"
   },
   {
     id: 11,
@@ -126,7 +136,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%9B%A8%E5%AE%AE%E5%A4%A9",
-    twitter_url: "https://twitter.com/trysail_staff"
+    twitter_url: "https://twitter.com/trysail_staff",
+    masterpiece: "「七つの大罪」エリザベス役など"
   },
   {
     id: 12,
@@ -137,7 +148,8 @@
     prefecture: "埼玉県",
     address: "富士見市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%A3%AF%E7%94%B0%E9%87%8C%E7%A9%82",
-    twitter_url: "https://twitter.com/rippialoha"
+    twitter_url: "https://twitter.com/rippialoha",
+    masterpiece: "「ラブライブ!」星空凛役など"
   },
   {
     id: 13,
@@ -148,7 +160,8 @@
     prefecture: "福島県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%A3%AF%E5%A1%9A%E6%98%AD%E4%B8%89",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「機動戦士ガンダム」リュウ・ホセイ役など"
   },
   {
     id: 14,
@@ -159,7 +172,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%A3%AF%E5%A1%9A%E9%9B%85%E5%BC%93",
-    twitter_url: "https://twitter.com/MayuTama0103"
+    twitter_url: "https://twitter.com/MayuTama0103",
+    masterpiece: "「ポケットモンスター」カスミ役など"
   },
   {
     id: 15,
@@ -170,7 +184,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%BA%95%E5%8F%A3%E8%A3%95%E9%A6%99",
-    twitter_url: "https://twitter.com/yukachiofficial"
+    twitter_url: "https://twitter.com/yukachiofficial",
+    masterpiece: "「SKET DANCE」宇佐見羽仁役など"
   },
   {
     id: 16,
@@ -181,7 +196,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%B1%A0%E7%94%B0%E7%A7%80%E4%B8%80",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「機動戦士ガンダム」シャア・アズナブル役など"
   },
   {
     id: 17,
@@ -192,7 +208,8 @@
     prefecture: "千葉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%9F%B3%E4%BA%95%E3%83%9E%E3%83%BC%E3%82%AF",
-    twitter_url: "https://twitter.com/ishii_mark_new"
+    twitter_url: "https://twitter.com/ishii_mark_new",
+    masterpiece: "「ハイキュー!!」灰羽リエーフ役など"
   },
   {
     id: 18,
@@ -203,7 +220,8 @@
     prefecture: "東京都",
     address: "文京区",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%9D%E7%95%8C%E4%BA%BA",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ハイキュー!!」影山飛雄役など"
   },
   {
     id: 19,
@@ -214,7 +232,8 @@
     prefecture: "兵庫県",
     address: "西宮市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%9D%E8%8B%B1%E9%83%8E",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「NARUTO」うちはイタチ役など"
   },
   {
     id: 20,
@@ -225,7 +244,8 @@
     prefecture: "兵庫県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%9D%E7%94%B1%E4%BE%9D",
-    twitter_url: "https://twitter.com/YUI_STAFF"
+    twitter_url: "https://twitter.com/YUI_STAFF",
+    masterpiece: "「進撃の巨人」ミカサ・アッカーマン役など"
   },
   {
     id: 21,
@@ -236,7 +256,8 @@
     prefecture: "愛知県",
     address: "日進市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%9F%B3%E7%94%B0%E5%BD%B0",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「銀魂」桂小太郎役など"
   },
   {
     id: 22,
@@ -247,7 +268,8 @@
     prefecture: "福井県",
     address: "勝山市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%A1%9A%E9%81%8B%E6%98%87",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ポケットモンスター」オーキド博士役など"
   },
   {
     id: 23,
@@ -258,7 +280,8 @@
     prefecture: "千葉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%8E%9F%E5%A4%8F%E7%B9%94",
-    twitter_url: "https://twitter.com/kaori_staff_"
+    twitter_url: "https://twitter.com/kaori_staff_",
+    masterpiece: "「マギ」アラジン役など"
   },
   {
     id: 24,
@@ -269,7 +292,8 @@
     prefecture: "神奈川県",
     address: "横浜市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%BC%8A%E7%80%AC%E8%8C%89%E8%8E%89%E4%B9%9F",
-    twitter_url: "https://twitter.com/Ma_ri_ya_i"
+    twitter_url: "https://twitter.com/Ma_ri_ya_i",
+    masterpiece: "「HUNTER×HUNTER」キルア＝ゾルディック役など"
   },
   {
     id: 25,
@@ -280,7 +304,8 @@
     prefecture: "大阪府",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B8%82%E9%81%93%E7%9C%9F%E5%A4%AE",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「炎炎ノ消防隊」アイリス役など"
   },
   {
     id: 26,
@@ -291,7 +316,8 @@
     prefecture: "大阪府",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%B8%80%E9%BE%8D%E6%96%8E%E8%B2%9E%E5%8F%8B",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「クレヨンしんちゃん」マサオくん役など"
   },
   {
     id: 27,
@@ -302,7 +328,8 @@
     prefecture: "長野県",
     address: "長野市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E3%81%8B%E3%81%AA%E6%81%B5",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ONE PIECE」キャロット役など"
   },
   {
     id: 28,
@@ -313,7 +340,8 @@
     prefecture: "東京都",
     address: "八王子市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E5%81%A5%E5%A4%AA%E9%83%8E_(%E5%A3%B0%E5%84%AA)",
-    twitter_url: "https://twitter.com/itoken_k_show"
+    twitter_url: "https://twitter.com/itoken_k_show",
+    masterpiece: "「BLEACH」阿散井恋次役など"
   },
   {
     id: 29,
@@ -324,7 +352,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E9%9D%99",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「暗殺教室」イリーナ・イェラビッチ役など"
   },
   {
     id: 30,
@@ -335,7 +364,8 @@
     prefecture: "東京都",
     address: "八王子市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%A8%B2%E7%94%B0%E5%BE%B9",
-    twitter_url: "https://twitter.com/trombe_boss"
+    twitter_url: "https://twitter.com/trombe_boss",
+    masterpiece: "「BLEACH」狛村左陣役など"
   },
   {
     id: 31,
@@ -346,7 +376,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%8A%AC%E5%B1%B1%E3%82%A4%E3%83%8C%E3%82%B3",
-    twitter_url: "https://twitter.com/inuko55inuyama"
+    twitter_url: "https://twitter.com/inuko55inuyama",
+    masterpiece: "「ポケットモンスター」ニャース役など"
   },
   {
     id: 32,
@@ -357,7 +388,8 @@
     prefecture: "神奈川県",
     address: "横浜市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E5%92%8C%E5%BD%A6_(%E5%A3%B0%E5%84%AA)",
-    twitter_url: "https://twitter.com/inouekazuhiko"
+    twitter_url: "https://twitter.com/inouekazuhiko",
+    masterpiece: "「NARUTO」はたけカカシ役など"
   },
   {
     id: 33,
@@ -368,7 +400,8 @@
     prefecture: "神奈川県",
     address: "横須賀市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E5%96%9C%E4%B9%85%E5%AD%90",
-    twitter_url: "https://twitter.com/atmanbow_staff"
+    twitter_url: "https://twitter.com/atmanbow_staff",
+    masterpiece: "「はたらく細胞」マクロファージ役など"
   },
   {
     id: 34,
@@ -379,7 +412,8 @@
     prefecture: "佐賀県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E5%89%9B_(%E5%A3%B0%E5%84%AA)",
-    twitter_url: "https://twitter.com/_Gou_"
+    twitter_url: "https://twitter.com/_Gou_",
+    masterpiece: "「黒子のバスケ」土田聡史役など"
   },
   {
     id: 35,
@@ -390,7 +424,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E9%BA%BB%E9%87%8C%E5%A5%88",
-    twitter_url: "https://twitter.com/Mari_navi"
+    twitter_url: "https://twitter.com/Mari_navi",
+    masterpiece: "「進撃の巨人」アルミン・アルレルト役など"
   },
   {
     id: 36,
@@ -401,7 +436,8 @@
     prefecture: "山口県",
     address: "周南市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%BB%8A%E4%BA%95%E9%BA%BB%E7%BE%8E",
-    twitter_url: "https://twitter.com/asamingosu"
+    twitter_url: "https://twitter.com/asamingosu",
+    masterpiece: "「STEINS;GATE」牧瀬紅莉栖役など"
   },
   {
     id: 37,
@@ -412,7 +448,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%85%A5%E9%87%8E%E8%87%AA%E7%94%B1",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「おそ松さん」松野トド松役など"
   },
   {
     id: 38,
@@ -423,7 +460,8 @@
     prefecture: "埼玉県",
     address: "所沢市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B2%A9%E7%94%B0%E5%85%89%E5%A4%AE",
-    twitter_url: "https://twitter.com/mitsuo_iwata_77"
+    twitter_url: "https://twitter.com/mitsuo_iwata_77",
+    masterpiece: "「トリコ」サニー役など"
   },
   {
     id: 39,
@@ -434,7 +472,8 @@
     prefecture: "神奈川県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%9D%82%E3%81%99%E3%81%BF%E3%82%8C",
-    twitter_url: "https://twitter.com/uesaka_official"
+    twitter_url: "https://twitter.com/uesaka_official",
+    masterpiece: "「BanG Dream!」白鷺千聖役など"
   },
   {
     id: 40,
@@ -445,7 +484,8 @@
     prefecture: "奈良県",
     address: "生駒市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%A4%8D%E7%94%B0%E4%BD%B3%E5%A5%88",
-    twitter_url: "https://twitter.com/uedakana"
+    twitter_url: "https://twitter.com/uedakana",
+    masterpiece: "「魔法少女リリカルなのはA's」八神はやて役など"
   },
   {
     id: 41,
@@ -456,7 +496,8 @@
     prefecture: "福岡県",
     address: "北九州市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%88%E3%81%A0%E3%82%86%E3%81%86%E3%81%98",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ポケットモンスター」タケシ役など"
   },
   {
     id: 42,
@@ -467,7 +508,8 @@
     prefecture: "富山県",
     address: "富山市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%B8%8A%E7%94%B0%E9%BA%97%E5%A5%88",
-    twitter_url: "https://twitter.com/ReinaUeda_Staff"
+    twitter_url: "https://twitter.com/ReinaUeda_Staff",
+    masterpiece: "「鬼滅の刃」栗花落カナヲ役など"
   },
   {
     id: 43,
@@ -478,7 +520,8 @@
     prefecture: "群馬県",
     address: "太田市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%86%85%E7%94%B0%E5%BD%A9",
-    twitter_url: "https://twitter.com/aya_uchida"
+    twitter_url: "https://twitter.com/aya_uchida",
+    masterpiece: "「ラブライブ!」南ことり役など"
   },
   {
     id: 44,
@@ -489,7 +532,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%86%85%E7%94%B0%E7%9C%9F%E7%A4%BC",
-    twitter_url: "https://twitter.com/maaya_taso"
+    twitter_url: "https://twitter.com/maaya_taso",
+    masterpiece: "「約束のネバーランド」ノーマン役など"
   },
   {
     id: 45,
@@ -500,7 +544,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%86%85%E7%94%B0%E9%9B%84%E9%A6%AC",
-    twitter_url: "https://twitter.com/yuma_u_official"
+    twitter_url: "https://twitter.com/yuma_u_official",
+    masterpiece: "「呪術廻戦」伏黒恵役など"
   },
   {
     id: 46,
@@ -511,7 +556,8 @@
     prefecture: "埼玉県",
     address: "三郷市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%86%85%E7%94%B0%E5%A4%95%E5%A4%9C",
-    twitter_url: "https://twitter.com/yuuya_uchida"
+    twitter_url: "https://twitter.com/yuuya_uchida",
+    masterpiece: "「七つの大罪」ヘンドリクセン役など"
   },
   {
     id: 47,
@@ -522,7 +568,8 @@
     prefecture: "埼玉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%86%85%E5%B1%B1%E6%98%82%E8%BC%9D",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「鬼滅の刃」累役など"
   },
   {
     id: 48,
@@ -533,7 +580,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%86%85%E5%B1%B1%E5%A4%95%E5%AE%9F",
-    twitter_url: "https://twitter.com/yuumin_uchiyama"
+    twitter_url: "https://twitter.com/yuumin_uchiyama",
+    masterpiece: "「Re:ゼロから始める異世界生活」パック役など"
   },
   {
     id: 49,
@@ -544,7 +592,8 @@
     prefecture: "静岡県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%A2%85%E5%8E%9F%E8%A3%95%E4%B8%80%E9%83%8E",
-    twitter_url: "https://twitter.com/UmeuMeumE_Y"
+    twitter_url: "https://twitter.com/UmeuMeumE_Y",
+    masterpiece: "「ダイヤのA actII」美馬総一郎役など"
   },
   {
     id: 50,
@@ -555,7 +604,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B7%9D%E5%A4%AE%E7%94%9F",
-    twitter_url: "https://twitter.com/egawa_hisao"
+    twitter_url: "https://twitter.com/egawa_hisao",
+    masterpiece: "「NARUTO疾風伝」キラービー役など"
   },
   {
     id: 51,
@@ -566,7 +616,8 @@
     prefecture: "茨城県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%8F%A3%E6%8B%93%E4%B9%9F",
-    twitter_url: "https://twitter.com/egutakuya"
+    twitter_url: "https://twitter.com/egutakuya",
+    masterpiece: "「黒子のバスケ」小金井慎二役など"
   },
   {
     id: 52,
@@ -577,7 +628,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%A6%8E%E6%9C%A8%E6%B7%B3%E5%BC%A5",
-    twitter_url: "https://twitter.com/enojunjunjun"
+    twitter_url: "https://twitter.com/enojunjunjun",
+    masterpiece: "「呪術廻戦」虎杖悠仁役など"
   },
   {
     id: 53,
@@ -588,7 +640,8 @@
     prefecture: "神奈川県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%8E%9F%E6%AD%A3%E5%A3%AB",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「NARUTO」マイト・ガイ役など"
   },
   {
     id: 54,
@@ -599,7 +652,8 @@
     prefecture: "山形県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%81%A0%E8%97%A4%E7%B6%BE",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「妖怪ウォッチ」コマさん役など"
   },
   {
     id: 55,
@@ -610,7 +664,8 @@
     prefecture: "愛知県",
     address: "蒲郡市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B2%B3%E5%85%83%E6%B0%97",
-    twitter_url: "https://twitter.com/genki_okawa"
+    twitter_url: "https://twitter.com/genki_okawa",
+    masterpiece: "「ブラッククローバー」アレクドラ・サンドラー役など"
   },
   {
     id: 56,
@@ -621,7 +676,8 @@
     prefecture: "鹿児島県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B7%9D%E9%80%8F",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ONE PIECE」センゴク役など"
   },
   {
     id: 57,
@@ -632,7 +688,8 @@
     prefecture: "埼玉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%A4%A7%E4%B9%85%E4%BF%9D%E7%91%A0%E7%BE%8E",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「マギ」ピスティ役など"
   },
   {
     id: 58,
@@ -643,7 +700,8 @@
     prefecture: "徳島県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%80%A2%E5%9D%82%E8%89%AF%E5%A4%AA",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ダイヤのA」沢村栄純役など"
   },
   {
     id: 59,
@@ -654,7 +712,8 @@
     prefecture: "千葉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%A4%AA%E7%94%B0%E5%93%B2%E6%B2%BB",
-    twitter_url: "https://twitter.com/otomeyakko"
+    twitter_url: "https://twitter.com/otomeyakko",
+    masterpiece: "「銀魂」山崎退役など"
   },
   {
     id: 60,
@@ -665,7 +724,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%B0%B7%E8%82%B2%E6%B1%9F",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ポケットモンスター」ピカチュウ役など"
   },
   {
     id: 61,
@@ -676,7 +736,8 @@
     prefecture: "東京都",
     address: "新宿区",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%A1%9A%E6%98%8E%E5%A4%AB",
-    twitter_url: "https://twitter.com/AkioOtsuka"
+    twitter_url: "https://twitter.com/AkioOtsuka",
+    masterpiece: "「BLEACH」京楽春水役など"
   },
   {
     id: 62,
@@ -687,7 +748,8 @@
     prefecture: "東京都",
     address: "世田谷区",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%A1%9A%E5%91%A8%E5%A4%AB",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ONE PIECE」ゴール・D・ロジャー役など"
   },
   {
     id: 63,
@@ -698,7 +760,8 @@
     prefecture: "岡山県",
     address: "津山市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%A1%9A%E8%8A%B3%E5%BF%A0",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「NARUTO」自来也役など"
   },
   {
     id: 64,
@@ -709,7 +772,8 @@
     prefecture: "千葉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9D%AA%E7%94%B1%E4%BD%B3",
-    twitter_url: "https://twitter.com/00tsubo_yuka"
+    twitter_url: "https://twitter.com/00tsubo_yuka",
+    masterpiece: "「ゆるゆり」歳納京子役など"
   },
   {
     id: 65,
@@ -720,7 +784,8 @@
     prefecture: "北海道",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%A0%B4%E7%9C%9F%E4%BA%BA",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ONE PIECE」スモーカー役など"
   },
   {
     id: 66,
@@ -731,7 +796,8 @@
     prefecture: "埼玉県",
     address: "さいたま市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%A9%8B%E5%BD%A9%E9%A6%99",
-    twitter_url: "https://twitter.com/AyakaOhashi"
+    twitter_url: "https://twitter.com/AyakaOhashi",
+    masterpiece: "「BanG Dream!」山吹沙綾役など"
   },
   {
     id: 67,
@@ -742,7 +808,8 @@
     prefecture: "神奈川県",
     address: "横浜市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%8E%9F%E3%81%95%E3%82%84%E3%81%8B",
-    twitter_url: "https://twitter.com/readingradio"
+    twitter_url: "https://twitter.com/readingradio",
+    masterpiece: "「FAIRY TAIL」エルザ・スカーレット役など"
   },
   {
     id: 68,
@@ -753,7 +820,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%8E%9F%E3%82%81%E3%81%90%E3%81%BF",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ドラえもん」野比のび太役など"
   },
   {
     id: 69,
@@ -764,7 +832,8 @@
     prefecture: "東京都",
     address: "渋谷区",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B1%B1%E3%81%AE%E3%81%B6%E4%BB%A3",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ドラえもん」ドラえもん役など"
   },
   {
     id: 70,
@@ -775,7 +844,8 @@
     prefecture: "福岡県",
     address: "田川郡",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%B7%92%E6%96%B9%E8%B3%A2%E4%B8%80",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「名探偵コナン」阿笠博士役など"
   },
   {
     id: 71,
@@ -786,7 +856,8 @@
     prefecture: "東京都",
     address: "千代田区",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%B7%92%E6%96%B9%E6%81%B5%E7%BE%8E",
-    twitter_url: "https://twitter.com/Megumi_Ogata"
+    twitter_url: "https://twitter.com/Megumi_Ogata",
+    masterpiece: "「新世紀エヴァンゲリオン」碇シンジ役など"
   },
   {
     id: 72,
@@ -797,7 +868,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B2%A1%E6%9D%91%E6%98%8E%E7%BE%8E",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ONE PIECE」ナミ役など"
   },
   {
     id: 73,
@@ -808,7 +880,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B2%A1%E6%9C%AC%E4%BF%A1%E5%BD%A6",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「僕のヒーローアカデミア」爆豪勝己役など"
   },
   {
     id: 74,
@@ -819,7 +892,8 @@
     prefecture: "大阪府",
     address: "大阪市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%BD%AE%E9%AE%8E%E9%BE%8D%E5%A4%AA%E9%83%8E",
-    twitter_url: "https://twitter.com/chikichikiko"
+    twitter_url: "https://twitter.com/chikichikiko",
+    masterpiece: "「SLAM DUNK」三井寿役など"
   },
   {
     id: 75,
@@ -830,7 +904,8 @@
     prefecture: "兵庫県",
     address: "南あわじ市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%88%88%E6%B4%A5%E5%92%8C%E5%B9%B8",
-    twitter_url: "https://twitter.com/okitsu3__8"
+    twitter_url: "https://twitter.com/okitsu3__8",
+    masterpiece: "「ハイキュー!! TO THE TOP」大将優役など"
   },
   {
     id: 76,
@@ -841,7 +916,8 @@
     prefecture: "群馬県",
     address: "みどり市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%80%89%E5%94%AF",
-    twitter_url: "https://twitter.com/yui_ogura_815"
+    twitter_url: "https://twitter.com/yui_ogura_815",
+    masterpiece: "「ポプテピピック」星降そそぐ役など"
   },
   {
     id: 77,
@@ -852,7 +928,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%90%BD%E5%90%88%E7%A6%8F%E5%97%A3",
-    twitter_url: "https://twitter.com/fukushi_o"
+    twitter_url: "https://twitter.com/fukushi_o",
+    masterpiece: "「火ノ丸相撲」小関信也役など"
   },
   {
     id: 78,
@@ -863,7 +940,8 @@
     prefecture: "福岡県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E8%B3%A2%E7%AB%A0",
-    twitter_url: "https://twitter.com/ono_kensho"
+    twitter_url: "https://twitter.com/ono_kensho",
+    masterpiece: "「黒子のバスケ」黒子テツヤ役など"
   },
   {
     id: 79,
@@ -874,7 +952,8 @@
     prefecture: "高知県",
     address: "高岡郡佐川町",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E5%A4%A7%E8%BC%94",
-    twitter_url: "https://twitter.com/onoDofficial"
+    twitter_url: "https://twitter.com/onoDofficial",
+    masterpiece: "「進撃の巨人」エルヴィン・スミス役など"
   },
   {
     id: 80,
@@ -885,7 +964,8 @@
     prefecture: "静岡県",
     address: "静岡市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E5%8F%8B%E6%A8%B9",
-    twitter_url: "https://twitter.com/onoyuki19840622"
+    twitter_url: "https://twitter.com/onoyuki19840622",
+    masterpiece: "「ジョジョの奇妙な冒険 ダイヤモンドは砕けない」東方仗助役など"
   },
   {
     id: 81,
@@ -896,7 +976,8 @@
     prefecture: "大阪府",
     address: "大阪市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E5%9D%82%E6%98%8C%E4%B9%9F",
-    twitter_url: "https://twitter.com/masayangest"
+    twitter_url: "https://twitter.com/masayangest",
+    masterpiece: "「ボボボーボ・ボーボボ」首領パッチ役など"
   },
   {
     id: 82,
@@ -907,7 +988,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%8E%9F%E4%B9%83%E6%A2%A8%E5%AD%90",
-    twitter_url: "https://twitter.com/voice_nohara"
+    twitter_url: "https://twitter.com/voice_nohara",
+    masterpiece: "「ヤッターマン」ドロンジョ役など"
   },
   {
     id: 83,
@@ -918,7 +1000,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%8A%98%E7%AC%A0%E6%84%9B",
-    twitter_url: "https://twitter.com/AIaxlone"
+    twitter_url: "https://twitter.com/AIaxlone",
+    masterpiece: "「ONE PIECE」光月モモの助役など"
   },
   {
     id: 84,
@@ -929,7 +1012,8 @@
     prefecture: "東京都",
     address: "江戸川区",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%8A%98%E7%AC%A0%E5%AF%8C%E7%BE%8E%E5%AD%90",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「BLEACH」朽木ルキア役など"
   },
   {
     id: 85,
@@ -940,7 +1024,8 @@
     prefecture: "神奈川県",
     address: "川崎市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%94%B2%E6%96%90%E7%94%B0%E8%A3%95%E5%AD%90",
-    twitter_url: "https://twitter.com/yuhkokaida_offi"
+    twitter_url: "https://twitter.com/yuhkokaida_offi",
+    masterpiece: "「銀魂」月詠役など"
   },
   {
     id: 86,
@@ -951,7 +1036,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%94%B2%E6%96%90%E7%94%B0%E3%82%86%E3%81%8D",
-    twitter_url: "https://twitter.com/KAIDA_YUKI"
+    twitter_url: "https://twitter.com/KAIDA_YUKI",
+    masterpiece: "「テニスの王子様」不二周助役など"
   },
   {
     id: 87,
@@ -962,7 +1048,8 @@
     prefecture: "ドイツ",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9F%BF%E5%8E%9F%E5%BE%B9%E4%B9%9F",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「FAIRY TAIL」ナツ・ドラグニル役など"
   },
   {
     id: 88,
@@ -973,7 +1060,8 @@
     prefecture: "福岡県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%8A%A0%E9%9A%88%E4%BA%9C%E8%A1%A3",
-    twitter_url: "https://twitter.com/aimausu"
+    twitter_url: "https://twitter.com/aimausu",
+    masterpiece: "「鬼滅の刃」真菰役など"
   },
   {
     id: 89,
@@ -984,7 +1072,8 @@
     prefecture: "埼玉県",
     address: "坂戸市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%A2%B6%E8%A3%95%E8%B2%B4",
-    twitter_url: "https://twitter.com/KAJI__OFFICIAL"
+    twitter_url: "https://twitter.com/KAJI__OFFICIAL",
+    masterpiece: "「進撃の巨人」エレン・イェーガー役など"
   },
   {
     id: 90,
@@ -995,7 +1084,8 @@
     prefecture: "大阪府",
     address: "枚方市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%A2%B6%E5%8E%9F%E5%B2%B3%E4%BA%BA",
-    twitter_url: "https://twitter.com/gaku_kajiwara"
+    twitter_url: "https://twitter.com/gaku_kajiwara",
+    masterpiece: "「炎炎ノ消防隊」森羅日下部役など"
   },
   {
     id: 91,
@@ -1006,7 +1096,8 @@
     prefecture: "青森県",
     address: "八戸市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%8B%9D%E7%94%9F%E7%9C%9F%E6%B2%99%E5%AD%90",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「NARUTO」綱手役など"
   },
   {
     id: 92,
@@ -1017,7 +1108,8 @@
     prefecture: "東京都",
     address: "福生市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E8%8B%B1%E7%BE%8E%E9%87%8C",
-    twitter_url: "https://twitter.com/Emiryun"
+    twitter_url: "https://twitter.com/Emiryun",
+    masterpiece: "「らき☆すた」柊かがみ役など"
   },
   {
     id: 93,
@@ -1028,7 +1120,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E3%81%BF%E3%81%A9%E3%82%8A",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「サザエさん」フグ田サザエ役など"
   },
   {
     id: 94,
@@ -1039,7 +1132,8 @@
     prefecture: "東京都",
     address: "世田谷区",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%AA%E3%81%84%E3%81%BF%E3%81%8B",
-    twitter_url: "https://twitter.com/MIkAKANAI3018"
+    twitter_url: "https://twitter.com/MIkAKANAI3018",
+    masterpiece: "「それいけ!アンパンマン」メロンパンナ役など"
   },
   {
     id: 95,
@@ -1050,7 +1144,8 @@
     prefecture: "愛知県",
     address: "豊田市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%87%91%E7%94%B0%E3%82%A2%E3%82%AD",
-    twitter_url: "https://twitter.com/canada_aki"
+    twitter_url: "https://twitter.com/canada_aki",
+    masterpiece: "「ヒーリングっど♥プリキュア」ニャトラン役など"
   },
   {
     id: 96,
@@ -1061,7 +1156,8 @@
     prefecture: "神奈川県",
     address: "横浜市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%87%91%E7%94%B0%E6%9C%8B%E5%AD%90",
-    twitter_url: "https://twitter.com/kanetomo_tube"
+    twitter_url: "https://twitter.com/kanetomo_tube",
+    masterpiece: "「ボボボーボ・ボーボボ」田楽マン役など"
   },
   {
     id: 97,
@@ -1072,7 +1168,8 @@
     prefecture: "岡山県",
     address: "倉敷市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%87%91%E5%85%83%E5%AF%BF%E5%AD%90",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「スマイルプリキュア!」キュアピース役など"
   },
   {
     id: 98,
@@ -1083,7 +1180,8 @@
     prefecture: "北海道",
     address: "札幌市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%B0%BE%E6%99%8B%E4%B8%80%E9%83%8E",
-    twitter_url: "https://twitter.com/s_kamio113"
+    twitter_url: "https://twitter.com/s_kamio113",
+    masterpiece: "「約束のネバーランド」ソンジュ役など"
   },
   {
     id: 99,
@@ -1094,7 +1192,8 @@
     prefecture: "神奈川県",
     address: "横浜市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%A5%9E%E8%B0%B7%E6%98%8E",
-    twitter_url: "https://twitter.com/kamiyaakira29"
+    twitter_url: "https://twitter.com/kamiyaakira29",
+    masterpiece: "「キン肉マン」キン肉マン役など"
   },
   {
     id: 100,
@@ -1105,7 +1204,8 @@
     prefecture: "茨城県",
     address: "牛久市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%A5%9E%E8%B0%B7%E6%B5%A9%E5%8F%B2",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「進撃の巨人」リヴァイ役など"
   },
   {
     id: 101,
@@ -1116,7 +1216,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%8C%85%E9%87%8E%E6%84%9B%E8%A1%A3",
-    twitter_url: "https://twitter.com/kayanoai_10th"
+    twitter_url: "https://twitter.com/kayanoai_10th",
+    masterpiece: "「あの日見た花の名前を僕達はまだ知らない。」めんま役など"
   },
   {
     id: 102,
@@ -1127,7 +1228,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B7%9D%E6%BE%84%E7%B6%BE%E5%AD%90",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「Fate/stay night」セイバー役など"
   },
   {
     id: 103,
@@ -1138,7 +1240,8 @@
     prefecture: "栃木県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B7%9D%E7%94%B0%E7%B4%B3%E5%8F%B8",
-    twitter_url: "https://twitter.com/Shinji_Kawada"
+    twitter_url: "https://twitter.com/Shinji_Kawada",
+    masterpiece: "「NARUTO」油女シノ役など"
   },
   {
     id: 104,
@@ -1149,7 +1252,8 @@
     prefecture: "大阪府",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%B2%B3%E8%A5%BF%E5%81%A5%E5%90%BE",
-    twitter_url: "https://twitter.com/Kengokawanishi"
+    twitter_url: "https://twitter.com/Kengokawanishi",
+    masterpiece: "「鬼滅の刃」時透無一郎役など"
   },
   {
     id: 105,
@@ -1160,7 +1264,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%94%B0%E6%B2%99%E4%B9%9F%E5%8A%A0",
-    twitter_url: "https://twitter.com/sayakakanda"
+    twitter_url: "https://twitter.com/sayakakanda",
+    masterpiece: "「アナと雪の女王」アナ役など"
   },
   {
     id: 106,
@@ -1171,7 +1276,8 @@
     prefecture: "東京都",
     address: "品川区",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%A5%88%E5%BB%B6%E5%B9%B4",
-    twitter_url: "https://twitter.com/ennen_7"
+    twitter_url: "https://twitter.com/ennen_7",
+    masterpiece: "「NARUTO」薬師カブト役など"
   },
   {
     id: 107,
@@ -1182,7 +1288,8 @@
     prefecture: "兵庫県",
     address: "神戸市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9C%A8%E5%86%85%E7%A7%80%E4%BF%A1",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「家庭教師ヒットマンREBORN!」笹川了平役など"
   },
   {
     id: 108,
@@ -1193,7 +1300,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%8F%8A%E6%B1%A0%E3%81%93%E3%81%93%E3%82%8D",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「BORUTO NARUTO NEXT GENERATIONS」うちはサラダ役など"
   },
   {
     id: 109,
@@ -1204,7 +1312,8 @@
     prefecture: "愛知県",
     address: "小牧市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B2%B8%E5%B0%BE%E3%81%A0%E3%81%84%E3%81%99%E3%81%91",
-    twitter_url: "https://twitter.com/daisacusacu"
+    twitter_url: "https://twitter.com/daisacusacu",
+    masterpiece: "「ワールドトリガー」米屋陽介役など"
   },
   {
     id: 110,
@@ -1215,7 +1324,8 @@
     prefecture: "北海道",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9C%A8%E5%B3%B6%E9%9A%86%E4%B8%80",
-    twitter_url: "https://twitter.com/maKijimaRyuichi"
+    twitter_url: "https://twitter.com/maKijimaRyuichi",
+    masterpiece: "「BORUTO NARUTO NEXT GENERATIONS」ミツキ役など"
   },
   {
     id: 111,
@@ -1226,7 +1336,8 @@
     prefecture: "東京都",
     address: "府中市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%96%9C%E5%A4%9A%E6%9D%91%E8%8B%B1%E6%A2%A8",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「僕のヒーローアカデミア」芦戸三奈役など"
   },
   {
     id: 112,
@@ -1237,7 +1348,8 @@
     prefecture: "愛知県",
     address: "名古屋市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%AC%BC%E9%A0%AD%E6%98%8E%E9%87%8C",
-    twitter_url: "https://twitter.com/kitoakari_1016"
+    twitter_url: "https://twitter.com/kitoakari_1016",
+    masterpiece: "「鬼滅の刃」竈門禰󠄀豆子役など"
   },
   {
     id: 113,
@@ -1248,7 +1360,8 @@
     prefecture: "ドイツ",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9D%91%E6%98%B4",
-    twitter_url: "https://twitter.com/GiantSUBAru"
+    twitter_url: "https://twitter.com/GiantSUBAru",
+    masterpiece: "「呪術廻戦」東堂葵役など"
   },
   {
     id: 114,
@@ -1259,7 +1372,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9D%91%E8%89%AF%E5%B9%B3",
-    twitter_url: "https://twitter.com/Ryouhey_Drunk"
+    twitter_url: "https://twitter.com/Ryouhey_Drunk",
+    masterpiece: "「黒子のバスケ」黄瀬涼太役など"
   },
   {
     id: 115,
@@ -1270,7 +1384,8 @@
     prefecture: "鹿児島県",
     address: "鹿児島市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%82%9D%E4%BB%98%E5%85%BC%E5%A4%AA",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ドラえもん」骨川スネ夫役など"
   },
   {
     id: 116,
@@ -1281,7 +1396,8 @@
     prefecture: "山梨県",
     address: "甲府市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E4%B8%87%E4%B8%88",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「銀魂」鳳仙役など"
   },
   {
     id: 117,
@@ -1292,7 +1408,8 @@
     prefecture: "熊本県",
     address: "熊本市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%87%98%E5%AE%AE%E7%90%86%E6%81%B5",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「銀魂」神楽役など"
   },
   {
     id: 118,
@@ -1303,7 +1420,8 @@
     prefecture: "埼玉県",
     address: "所沢市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%8D%89%E5%B0%BE%E6%AF%85",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「SLAM DUNK」桜木花道役など"
   },
   {
     id: 119,
@@ -1314,7 +1432,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E3%81%8F%E3%81%98%E3%82%89_(%E5%A3%B0%E5%84%AA)",
-    twitter_url: "https://twitter.com/kujityan"
+    twitter_url: "https://twitter.com/kujityan",
+    masterpiece: "「NARUTO」大蛇丸役など"
   },
   {
     id: 120,
@@ -1325,7 +1444,8 @@
     prefecture: "千葉県",
     address: "習志野市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%A5%A0%E7%94%B0%E4%BA%9C%E8%A1%A3%E5%A5%88",
-    twitter_url: "https://twitter.com/kusudaainastaff"
+    twitter_url: "https://twitter.com/kusudaainastaff",
+    masterpiece: "「ラブライブ!」東條希役など"
   },
   {
     id: 121,
@@ -1336,7 +1456,8 @@
     prefecture: "東京都",
     address: "町田市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%A5%A0%E5%A4%A7%E5%85%B8",
-    twitter_url: "https://twitter.com/TaitemKusunoki"
+    twitter_url: "https://twitter.com/TaitemKusunoki",
+    masterpiece: "「テニスの王子様」真田弦一郎役など"
   },
   {
     id: 122,
@@ -1347,7 +1468,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%B9%85%E9%87%8E%E7%BE%8E%E5%92%B2",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「七つの大罪」ホーク役など"
   },
   {
     id: 123,
@@ -1358,7 +1480,8 @@
     prefecture: "奈良県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%B9%85%E4%BF%9D%E3%83%A6%E3%83%AA%E3%82%AB",
-    twitter_url: "https://twitter.com/INFO_shikaco"
+    twitter_url: "https://twitter.com/INFO_shikaco",
+    masterpiece: "「ラブライブ!」小泉花陽役など"
   },
   {
     id: 124,
@@ -1369,7 +1492,8 @@
     prefecture: "東京都",
     address: "昭島市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E3%81%8F%E3%81%BE%E3%81%84%E3%82%82%E3%81%A8%E3%81%93",
-    twitter_url: "https://twitter.com/motorsports0908"
+    twitter_url: "https://twitter.com/motorsports0908",
+    masterpiece: "「かいけつゾロリ」ノシシ役など"
   },
   {
     id: 125,
@@ -1380,7 +1504,8 @@
     prefecture: "岩手県",
     address: "胆沢郡金ケ崎町",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%A1%91%E5%B3%B6%E6%B3%95%E5%AD%90",
-    twitter_url: "https://twitter.com/roudokuya_dajai"
+    twitter_url: "https://twitter.com/roudokuya_dajai",
+    masterpiece: "「鬼滅の刃」竈門葵枝役など"
   },
   {
     id: 126,
@@ -1391,7 +1516,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/KENN",
-    twitter_url: "https://twitter.com/KENNstaff"
+    twitter_url: "https://twitter.com/KENNstaff",
+    masterpiece: "「宇宙兄弟」南波日々人役など"
   },
   {
     id: 127,
@@ -1402,7 +1528,8 @@
     prefecture: "岡山県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%8E%84%E7%94%B0%E5%93%B2%E7%AB%A0",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「クレヨンしんちゃん」アクション仮面役など"
   },
   {
     id: 128,
@@ -1413,7 +1540,8 @@
     prefecture: "京都府",
     address: "京都市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B2%A9%E4%BA%95%E3%81%93%E3%81%A8%E3%82%8A",
-    twitter_url: "https://twitter.com/koiwai_kotori"
+    twitter_url: "https://twitter.com/koiwai_kotori",
+    masterpiece: "「七つの大罪」エレイン役など"
   },
   {
     id: 129,
@@ -1424,7 +1552,8 @@
     prefecture: "東京都",
     address: "三鷹市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%8A%E3%82%8D%E3%81%8E%E3%81%95%E3%81%A8%E3%81%BF",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「クレヨンしんちゃん」野原ひまわり役など"
   },
   {
     id: 130,
@@ -1435,7 +1564,8 @@
     prefecture: "東京都",
     address: "西多摩郡瑞穂町",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%A1%9C%E3%82%A8%E3%83%84%E3%82%B3",
-    twitter_url: "https://twitter.com/alittlealittle"
+    twitter_url: "https://twitter.com/alittlealittle",
+    masterpiece: "「妖怪ウォッチ」ジバニャン役など"
   },
   {
     id: 131,
@@ -1446,7 +1576,8 @@
     prefecture: "東京都",
     address: "国分寺市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%B8%85%E6%B0%B4%E4%BA%9C%E7%BE%8E",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「文豪ストレイドッグス」尾崎紅葉役など"
   },
   {
     id: 132,
@@ -1457,7 +1588,8 @@
     prefecture: "神奈川県",
     address: "横浜市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9D%89%E5%8D%81%E9%83%8E%E5%A4%AA",
-    twitter_url: "https://twitter.com/kosugi_jurota"
+    twitter_url: "https://twitter.com/kosugi_jurota",
+    masterpiece: "「ONE PIECE」アーロン役など"
   },
   {
     id: 133,
@@ -1468,7 +1600,8 @@
     prefecture: "兵庫県",
     address: "神戸市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%AF%BF%E7%BE%8E%E8%8F%9C%E5%AD%90",
-    twitter_url: "https://twitter.com/375roughlaugh"
+    twitter_url: "https://twitter.com/375roughlaugh",
+    masterpiece: "「TIGER & BUNNY」カリーナ・ライル役など"
   },
   {
     id: 134,
@@ -1479,7 +1612,8 @@
     prefecture: "和歌山県",
     address: "和歌山市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%A5%BF%E5%85%8B%E5%B9%B8",
-    twitter_url: "https://twitter.com/KCONIQ"
+    twitter_url: "https://twitter.com/KCONIQ",
+    masterpiece: "「鬼滅の刃」宇髄天元役など"
   },
   {
     id: 135,
@@ -1490,7 +1624,8 @@
     prefecture: "東京都",
     address: "文京区",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E6%B8%85%E5%BF%97",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ルパン三世」次元大介役など"
   },
   {
     id: 136,
@@ -1501,7 +1636,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E3%82%86%E3%81%86",
-    twitter_url: "https://twitter.com/holy_kobayashi"
+    twitter_url: "https://twitter.com/holy_kobayashi",
+    masterpiece: "「銀魂」猿飛あやめ役など"
   },
   {
     id: 137,
@@ -1512,7 +1648,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E8%A3%95%E4%BB%8B",
-    twitter_url: "https://twitter.com/yusuke032510"
+    twitter_url: "https://twitter.com/yusuke032510",
+    masterpiece: "「Dr.STONE」石神千空役など"
   },
   {
     id: 138,
@@ -1523,7 +1660,8 @@
     prefecture: "千葉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E7%94%B1%E7%BE%8E%E5%AD%90",
-    twitter_url: "https://twitter.com/shubi0618"
+    twitter_url: "https://twitter.com/shubi0618",
+    masterpiece: "「デュエル・マスターズ」切札勝舞役など"
   },
   {
     id: 139,
@@ -1534,7 +1672,8 @@
     prefecture: "三重県",
     address: "桑名市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9D%BE%E6%9C%AA%E5%8F%AF%E5%AD%90",
-    twitter_url: "https://twitter.com/mikakokomatsu"
+    twitter_url: "https://twitter.com/mikakokomatsu",
+    masterpiece: "「呪術廻戦」禪院真希役など"
   },
   {
     id: 140,
@@ -1545,7 +1684,8 @@
     prefecture: "神奈川県",
     address: "横浜市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%AD%90%E5%AE%89%E6%AD%A6%E4%BA%BA",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「銀魂」高杉晋助役など"
   },
   {
     id: 141,
@@ -1556,7 +1696,8 @@
     prefecture: "愛知県",
     address: "西尾市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B1%B1%E8%8C%89%E7%BE%8E",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ONE PIECE」ビッグ・マム役など"
   },
   {
     id: 142,
@@ -1567,7 +1708,8 @@
     prefecture: "京都府",
     address: "京都市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B1%B1%E5%8A%9B%E4%B9%9F",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「名探偵コナン」毛利小五郎役など"
   },
   {
     id: 143,
@@ -1578,7 +1720,8 @@
     prefecture: "愛知県",
     address: "岡崎市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%BF%91%E8%97%A4%E9%9A%86",
-    twitter_url: "https://twitter.com/vivo_tktk"
+    twitter_url: "https://twitter.com/vivo_tktk",
+    masterpiece: "「家庭教師ヒットマンREBORN!」雲雀恭弥役など"
   },
   {
     id: 144,
@@ -1589,7 +1732,8 @@
     prefecture: "鳥取県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%BF%91%E8%97%A4%E5%AD%9D%E8%A1%8C",
-    twitter_url: "https://twitter.com/tigergarden0605"
+    twitter_url: "https://twitter.com/tigergarden0605",
+    masterpiece: "「テニスの王子様」大石秀一郎役など"
   },
   {
     id: 145,
@@ -1600,7 +1744,8 @@
     prefecture: "埼玉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%96%8E%E8%B3%80%E3%81%BF%E3%81%A4%E3%81%8D",
-    twitter_url: "https://twitter.com/SaigaTweet"
+    twitter_url: "https://twitter.com/SaigaTweet",
+    masterpiece: "「進撃の巨人」イェレナ役など"
   },
   {
     id: 146,
@@ -1611,7 +1756,8 @@
     prefecture: "山梨県",
     address: "昭和町",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%96%89%E8%97%A4%E5%A3%AE%E9%A6%AC",
-    twitter_url: "https://twitter.com/SomaStaff"
+    twitter_url: "https://twitter.com/SomaStaff",
+    masterpiece: "「ハイキュー!!」山口忠役など"
   },
   {
     id: 147,
@@ -1622,7 +1768,8 @@
     prefecture: "埼玉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%96%8E%E8%97%A4%E5%8D%83%E5%92%8C",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「黒子のバスケ」相田リコ役など"
   },
   {
     id: 148,
@@ -1633,7 +1780,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%9D%82%E5%8F%A3%E5%80%99%E4%B8%80",
-    twitter_url: "https://twitter.com/ichinokai_g"
+    twitter_url: "https://twitter.com/ichinokai_g",
+    masterpiece: "「銀魂」ハタ皇子役など"
   },
   {
     id: 149,
@@ -1644,7 +1792,8 @@
     prefecture: "大阪府",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%98%AA%E5%8F%A3%E5%91%A8%E5%B9%B3",
-    twitter_url: "https://twitter.com/shuhey_skgc"
+    twitter_url: "https://twitter.com/shuhey_skgc",
+    masterpiece: "「NARUTO疾風伝」重吾役など"
   },
   {
     id: 150,
@@ -1655,7 +1804,8 @@
     prefecture: "新潟県",
     address: "柏崎市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%98%AA%E5%8F%A3%E5%A4%A7%E5%8A%A9",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「銀魂」志村新八役など"
   },
   {
     id: 151,
@@ -1666,7 +1816,8 @@
     prefecture: "東京都",
     address: "板橋区",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%9D%82%E6%9C%AC%E7%9C%9F%E7%B6%BE",
-    twitter_url: "https://twitter.com/maaya_ids"
+    twitter_url: "https://twitter.com/maaya_ids",
+    masterpiece: "「鬼滅の刃」珠世役など"
   },
   {
     id: 152,
@@ -1677,7 +1828,8 @@
     prefecture: "東京都",
     address: "渋谷区",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%BD%90%E5%80%89%E7%B6%BE%E9%9F%B3",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「僕のヒーローアカデミア」麗日お茶子役など"
   },
   {
     id: 153,
@@ -1688,7 +1840,8 @@
     prefecture: "愛知県",
     address: "岡崎市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%AB%BB%E4%BA%95%E5%AD%9D%E5%AE%8F",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「鬼滅の刃」冨岡義勇役など"
   },
   {
     id: 154,
@@ -1699,7 +1852,8 @@
     prefecture: "千葉県",
     address: "市川市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%AB%BB%E4%BA%95%E6%99%BA",
-    twitter_url: "https://twitter.com/TOMO_SAKURAI_"
+    twitter_url: "https://twitter.com/TOMO_SAKURAI_",
+    masterpiece: "「ポケットモンスター ダイヤモンド&パール」シロナ役など"
   },
   {
     id: 155,
@@ -1710,7 +1864,8 @@
     prefecture: "宮城県",
     address: "仙台市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E8%81%A1%E7%BE%8E",
-    twitter_url: "https://twitter.com/satosatomi58"
+    twitter_url: "https://twitter.com/satosatomi58",
+    masterpiece: "「氷菓」千反田える役など"
   },
   {
     id: 156,
@@ -1721,7 +1876,8 @@
     prefecture: "宮城県",
     address: "亘理郡山元町",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E6%8B%93%E4%B9%9F_(%E5%A3%B0%E5%84%AA)",
-    twitter_url: "https://twitter.com/5tAkUyA5"
+    twitter_url: "https://twitter.com/5tAkUyA5",
+    masterpiece: "「ジョジョの奇妙な冒険」シーザー・アントニオ・ツェペリ役など"
   },
   {
     id: 157,
@@ -1732,7 +1888,8 @@
     prefecture: "福岡県",
     address: "北九州市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E5%88%A9%E5%A5%88",
-    twitter_url: "https://twitter.com/rinasatoh"
+    twitter_url: "https://twitter.com/rinasatoh",
+    masterpiece: "「とある科学の超電磁砲」御坂美琴役など"
   },
   {
     id: 158,
@@ -1743,7 +1900,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%B2%A2%E5%9F%8E%E3%81%BF%E3%82%86%E3%81%8D",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「HUNTER×HUNTER」クラピカ役など"
   },
   {
     id: 159,
@@ -1754,7 +1912,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%B8%89%E7%93%B6%E7%94%B1%E5%B8%83%E5%AD%90",
-    twitter_url: "https://twitter.com/3paypaypay"
+    twitter_url: "https://twitter.com/3paypaypay",
+    masterpiece: "「BORUTO NARUTO NEXT GENERATIONS」うずまきボルト役など"
   },
   {
     id: 160,
@@ -1765,7 +1924,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%A4%8E%E5%90%8D%E3%81%B8%E3%81%8D%E3%82%8B",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「魔法騎士レイアース」獅堂光役など"
   },
   {
     id: 161,
@@ -1776,7 +1936,8 @@
     prefecture: "鹿児島県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%A1%A9%E5%B1%8B%E6%B5%A9%E4%B8%89",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ドラゴンボールZ」魔人ブウ役など"
   },
   {
     id: 162,
@@ -1787,7 +1948,8 @@
     prefecture: "東京都",
     address: "台東区",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9F%B4%E7%94%B0%E7%A7%80%E5%8B%9D",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ONE PIECE」モンキー・D・ドラゴン役など"
   },
   {
     id: 163,
@@ -1798,7 +1960,8 @@
     prefecture: "宮城県",
     address: "塩竈市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B3%B6%EF%A8%91%E4%BF%A1%E9%95%B7",
-    twitter_url: "https://twitter.com/nobunaga_s"
+    twitter_url: "https://twitter.com/nobunaga_s",
+    masterpiece: "「呪術廻戦」真人役など"
   },
   {
     id: 164,
@@ -1809,7 +1972,8 @@
     prefecture: "新潟県",
     address: "新潟市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B3%B6%E7%94%B0%E6%95%8F",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「銀魂」平賀源外役など"
   },
   {
     id: 165,
@@ -1820,7 +1984,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B6%8B%E6%9D%91%E4%BE%91",
-    twitter_url: "https://twitter.com/shimayulondon"
+    twitter_url: "https://twitter.com/shimayulondon",
+    masterpiece: "「進撃の巨人」アニ・レオンハート役など"
   },
   {
     id: 166,
@@ -1831,7 +1996,8 @@
     prefecture: "高知県",
     address: "高知市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%9C%AC%E9%A0%88%E7%BE%8E",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「それいけ!アンパンマン」しょくぱんまん役など"
   },
   {
     id: 167,
@@ -1842,7 +2008,8 @@
     prefecture: "埼玉県",
     address: "さいたま市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%B8%85%E6%B0%B4%E3%83%9E%E3%83%AA",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「鉄腕アトム」アトム役など"
   },
   {
     id: 168,
@@ -1853,7 +2020,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%B8%8B%E9%87%8E%E7%B4%98",
-    twitter_url: "https://twitter.com/shimono_kousiki"
+    twitter_url: "https://twitter.com/shimono_kousiki",
+    masterpiece: "「鬼滅の刃」我妻善逸役など"
   },
   {
     id: 169,
@@ -1864,7 +2032,8 @@
     prefecture: "奈良県",
     address: "香芝市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%99%BD%E7%9F%B3%E6%B6%BC%E5%AD%90",
-    twitter_url: "https://twitter.com/RyokoShiraishi_"
+    twitter_url: "https://twitter.com/RyokoShiraishi_",
+    masterpiece: "「SKET DANCE」鬼塚一愛役など"
   },
   {
     id: 170,
@@ -1875,7 +2044,8 @@
     prefecture: "千葉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%9C%9F%E5%A0%82%E5%9C%AD",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「僕のヒーローアカデミア」耳郎響香役など"
   },
   {
     id: 171,
@@ -1886,7 +2056,8 @@
     prefecture: "埼玉県",
     address: "比企郡嵐山町",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9D%89%E7%94%B0%E6%99%BA%E5%92%8C",
-    twitter_url: "https://twitter.com/sugitaLOV"
+    twitter_url: "https://twitter.com/sugitaLOV",
+    masterpiece: "「銀魂」坂田銀時役など"
   },
   {
     id: 172,
@@ -1897,7 +2068,8 @@
     prefecture: "大阪府",
     address: "吹田市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9D%89%E6%9C%AC%E3%82%86%E3%81%86",
-    twitter_url: "https://twitter.com/gekkou_you"
+    twitter_url: "https://twitter.com/gekkou_you",
+    masterpiece: "「新テニスの王子様」遠山金太郎役など"
   },
   {
     id: 173,
@@ -1908,7 +2080,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9D%89%E5%B1%B1%E7%B4%80%E5%BD%B0",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「NARUTO」うちはサスケ役など"
   },
   {
     id: 174,
@@ -1919,7 +2092,8 @@
     prefecture: "千葉県",
     address: "旭市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%8F%85%E7%94%9F%E9%9A%86%E4%B9%8B",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「銀魂」泥水次郎長役など"
   },
   {
     id: 175,
@@ -1930,7 +2104,8 @@
     prefecture: "石川県",
     address: "金沢市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%B4%B2%E5%B4%8E%E7%B6%BE",
-    twitter_url: "https://twitter.com/suzaki_aya"
+    twitter_url: "https://twitter.com/suzaki_aya",
+    masterpiece: "「暗殺教室」茅野カエデ役など"
   },
   {
     id: 176,
@@ -1941,7 +2116,8 @@
     prefecture: "愛知県",
     address: "岡崎市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E9%81%94%E5%A4%AE",
-    twitter_url: "https://twitter.com/ta2hisa_suzuki"
+    twitter_url: "https://twitter.com/ta2hisa_suzuki",
+    masterpiece: "「黒子のバスケ」高尾和成役など"
   },
   {
     id: 177,
@@ -1952,7 +2128,8 @@
     prefecture: "大阪府",
     address: "豊中市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9D%91%E5%81%A5%E4%B8%80",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「銀魂」沖田総悟役など"
   },
   {
     id: 178,
@@ -1963,7 +2140,8 @@
     prefecture: "愛知県",
     address: "名古屋市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%AB%8F%E8%A8%AA%E5%BD%A9%E8%8A%B1",
-    twitter_url: "https://twitter.com/Suwa_Ayaka"
+    twitter_url: "https://twitter.com/Suwa_Ayaka",
+    masterpiece: "「弱虫ペダル」寒咲幹役など"
   },
   {
     id: 179,
@@ -1974,7 +2152,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%AB%8F%E8%A8%AA%E9%83%A8%E9%A0%86%E4%B8%80",
-    twitter_url: "https://twitter.com/MY_MURMUR"
+    twitter_url: "https://twitter.com/MY_MURMUR",
+    masterpiece: "「呪術廻戦」両面宿儺役など"
   },
   {
     id: 180,
@@ -1985,7 +2164,8 @@
     prefecture: "栃木県",
     address: "真岡市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%96%A2%E4%BF%8A%E5%BD%A6",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「鬼滅の刃」鬼舞辻無惨役など"
   },
   {
     id: 181,
@@ -1996,7 +2176,8 @@
     prefecture: "東京都",
     address: "江東区",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%96%A2%E6%99%BA%E4%B8%80",
-    twitter_url: "https://twitter.com/seki0908"
+    twitter_url: "https://twitter.com/seki0908",
+    masterpiece: "「呪術廻戦」パンダ役など"
   },
   {
     id: 182,
@@ -2007,7 +2188,8 @@
     prefecture: "埼玉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E9%BA%BB%E6%B2%99%E7%BE%8E",
-    twitter_url: "https://twitter.com/seto_road"
+    twitter_url: "https://twitter.com/seto_road",
+    masterpiece: "「呪術廻戦」釘崎野薔薇役など"
   },
   {
     id: 183,
@@ -2018,7 +2200,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%8A%B9%E6%BE%A4%E5%84%AA",
-    twitter_url: "https://twitter.com/iRis_s_yu"
+    twitter_url: "https://twitter.com/iRis_s_yu",
+    masterpiece: "「双星の陰陽師」音海繭良役など"
   },
   {
     id: 184,
@@ -2029,7 +2212,8 @@
     prefecture: "埼玉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%8D%83%E6%9C%AC%E6%9C%A8%E5%BD%A9%E8%8A%B1",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ポケットモンスター」メッソン役など"
   },
   {
     id: 185,
@@ -2040,7 +2224,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%9E%A3%E5%BD%A9%E9%99%BD",
-    twitter_url: "https://twitter.com/ayahi_10th"
+    twitter_url: "https://twitter.com/ayahi_10th",
+    masterpiece: "「七つの大罪」デリエリ役など"
   },
   {
     id: 186,
@@ -2051,7 +2236,8 @@
     prefecture: "香川県",
     address: "高松市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9C%A8%E8%A3%95%E5%B9%B3",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「七つの大罪」ゴウセル役など"
   },
   {
     id: 187,
@@ -2062,7 +2248,8 @@
     prefecture: "大阪府",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9C%A8%E7%A4%BC%E5%AD%90",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「BLEACH」猿柿ひよ里役など"
   },
   {
     id: 188,
@@ -2073,7 +2260,8 @@
     prefecture: "千葉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9C%A8%E6%B8%89",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「名探偵コナン」小嶋元太役など"
   },
   {
     id: 189,
@@ -2084,7 +2272,8 @@
     prefecture: "神奈川県",
     address: "横浜市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%8B%E3%81%AF%E3%81%97%E6%99%BA%E7%A7%8B",
-    twitter_url: "https://twitter.com/chiaking58"
+    twitter_url: "https://twitter.com/chiaking58",
+    masterpiece: "「THE IDOLM@STER」三浦あずさ役など"
   },
   {
     id: 190,
@@ -2095,7 +2284,8 @@
     prefecture: "千葉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A9%8B%E7%BE%8E%E4%BD%B3%E5%AD%90",
-    twitter_url: "https://twitter.com/takahashimikako"
+    twitter_url: "https://twitter.com/takahashimikako",
+    masterpiece: "「銀魂」定春役など"
   },
   {
     id: 191,
@@ -2106,7 +2296,8 @@
     prefecture: "東京都",
     address: "足立区",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B1%B1%E3%81%BF%E3%81%AA%E3%81%BF",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「名探偵コナン」江戸川コナン役など"
   },
   {
     id: 192,
@@ -2117,7 +2308,8 @@
     prefecture: "埼玉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%86%85%E9%A0%86%E5%AD%90",
-    twitter_url: "https://twitter.com/junkotakeuchi45"
+    twitter_url: "https://twitter.com/junkotakeuchi45",
+    masterpiece: "「NARUTO」うずまきナルト役など"
   },
   {
     id: 193,
@@ -2128,7 +2320,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%AD%A6%E5%86%85%E9%A7%BF%E8%BC%94",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「火ノ丸相撲」久世草介役など"
   },
   {
     id: 194,
@@ -2139,7 +2332,8 @@
     prefecture: "兵庫県",
     address: "神戸市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%86%85%E8%89%AF%E5%A4%AA",
-    twitter_url: "https://twitter.com/takeuti_ryota"
+    twitter_url: "https://twitter.com/takeuti_ryota",
+    masterpiece: "「ハイキュー!!」牛島若利役など"
   },
   {
     id: 195,
@@ -2150,7 +2344,8 @@
     prefecture: "埼玉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%AB%B9%E9%81%94%E5%BD%A9%E5%A5%88",
-    twitter_url: "https://twitter.com/Ayana_take"
+    twitter_url: "https://twitter.com/Ayana_take",
+    masterpiece: "「けいおん!」中野梓役など"
   },
   {
     id: 196,
@@ -2161,7 +2356,8 @@
     prefecture: "長崎県",
     address: "五島市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%AB%8B%E6%9C%A8%E6%96%87%E5%BD%A6",
-    twitter_url: "https://twitter.com/Fu_minT61"
+    twitter_url: "https://twitter.com/Fu_minT61",
+    masterpiece: "「銀魂」長谷川泰三役など"
   },
   {
     id: 197,
@@ -2172,7 +2368,8 @@
     prefecture: "岐阜県",
     address: "岐阜市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%AB%8B%E8%8A%B1%E6%85%8E%E4%B9%8B%E4%BB%8B",
-    twitter_url: "https://twitter.com/REAL_1978_TS"
+    twitter_url: "https://twitter.com/REAL_1978_TS",
+    masterpiece: "「ハイキュー!!」夜久衛輔役など"
   },
   {
     id: 198,
@@ -2183,7 +2380,8 @@
     prefecture: "北海道",
     address: "虻田郡喜茂別町",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%A6%E3%81%8B%E3%81%B9%E5%92%8C%E4%B9%9F",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ドラえもん」剛田武役など"
   },
   {
     id: 199,
@@ -2194,7 +2392,8 @@
     prefecture: "茨城県",
     address: "水戸市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%94%B0%E6%89%80%E3%81%82%E3%81%9A%E3%81%95",
-    twitter_url: "https://twitter.com/AzusaTadokoro"
+    twitter_url: "https://twitter.com/AzusaTadokoro",
+    masterpiece: "「BanG Dream!」瀬田薫役など"
   },
   {
     id: 200,
@@ -2205,7 +2404,8 @@
     prefecture: "群馬県",
     address: "前橋市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E6%95%A6%E5%AD%90_(%E5%A3%B0%E5%84%AA)",
-    twitter_url: "https://twitter.com/atuwosyousa"
+    twitter_url: "https://twitter.com/atuwosyousa",
+    masterpiece: "「呪術廻戦」花御役など"
   },
   {
     id: 201,
@@ -2216,7 +2416,8 @@
     prefecture: "大阪府",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E4%B8%80%E6%88%90",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ハイキュー!!」烏養繋心役など"
   },
   {
     id: 202,
@@ -2227,7 +2428,8 @@
     prefecture: "東京都",
     address: "大田区",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E7%A7%80%E5%B9%B8_(%E5%A3%B0%E5%84%AA)",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ONE PIECE」ドンキホーテ・ドフラミンゴ役など"
   },
   {
     id: 203,
@@ -2238,7 +2440,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E7%9C%9F%E5%BC%93",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ONE PIECE」モンキー・D・ルフィ役など"
   },
   {
     id: 204,
@@ -2249,7 +2452,8 @@
     prefecture: "北海道",
     address: "札幌市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E7%90%86%E6%81%B5_(%E5%A3%B0%E5%84%AA)",
-    twitter_url: "https://twitter.com/tanakarie"
+    twitter_url: "https://twitter.com/tanakarie",
+    masterpiece: "「Dr.STONE」ダリヤ・ニキーチナ役など"
   },
   {
     id: 205,
@@ -2260,7 +2464,8 @@
     prefecture: "山口県",
     address: "宇部市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%B0%B7%E5%B1%B1%E7%B4%80%E7%AB%A0",
-    twitter_url: "https://twitter.com/kishownstarmaps"
+    twitter_url: "https://twitter.com/kishownstarmaps",
+    masterpiece: "「進撃の巨人」ジャン・キルシュタイン役など"
   },
   {
     id: 206,
@@ -2271,7 +2476,8 @@
     prefecture: "埼玉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%94%B0%E6%9D%91%E5%A5%88%E5%A4%AE",
-    twitter_url: "https://twitter.com/tamunao10"
+    twitter_url: "https://twitter.com/tamunao10",
+    masterpiece: "「ワールドトリガー」雨取千佳役など"
   },
   {
     id: 207,
@@ -2282,7 +2488,8 @@
     prefecture: "福岡県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%94%B0%E6%9D%91%E3%82%86%E3%81%8B%E3%82%8A",
-    twitter_url: "https://twitter.com/YukarinStaff"
+    twitter_url: "https://twitter.com/YukarinStaff",
+    masterpiece: "「NARUTO」テンテン役など"
   },
   {
     id: 208,
@@ -2293,7 +2500,8 @@
     prefecture: "群馬県",
     address: "太田市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/TARAKO",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ちびまる子ちゃん」さくらももこ役など"
   },
   {
     id: 209,
@@ -2304,7 +2512,8 @@
     prefecture: "熊本県",
     address: "菊池市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E7%B9%81",
-    twitter_url: "https://twitter.com/1kamisama1"
+    twitter_url: "https://twitter.com/1kamisama1",
+    masterpiece: "「ONE PIECE」バギー役など"
   },
   {
     id: 210,
@@ -2315,7 +2524,8 @@
     prefecture: "神奈川県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E9%80%B2%E6%AD%A9",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「銀魂」近藤勲役など"
   },
   {
     id: 211,
@@ -2326,7 +2536,8 @@
     prefecture: "栃木県",
     address: "宇都宮市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%8C%85%E5%8E%9F%E5%AE%9F%E9%87%8C",
-    twitter_url: "https://twitter.com/Minorin_parade"
+    twitter_url: "https://twitter.com/Minorin_parade",
+    masterpiece: "「涼宮ハルヒの憂鬱」長門有希役など"
   },
   {
     id: 212,
@@ -2337,7 +2548,8 @@
     prefecture: "埼玉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%8C%B6%E9%A2%A8%E6%9E%97",
-    twitter_url: "https://twitter.com/chafurin"
+    twitter_url: "https://twitter.com/chafurin",
+    masterpiece: "「名探偵コナン」目暮十三役など"
   },
   {
     id: 213,
@@ -2348,7 +2560,8 @@
     prefecture: "埼玉県",
     address: "鴻巣市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%83%BC_(%E4%BF%B3%E5%84%AA)",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ONE PIECE」ブルック役など"
   },
   {
     id: 214,
@@ -2359,7 +2572,8 @@
     prefecture: "大阪府",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%B4%A5%E7%94%B0%E5%81%A5%E6%AC%A1%E9%83%8E",
-    twitter_url: "https://twitter.com/tsuda_ken"
+    twitter_url: "https://twitter.com/tsuda_ken",
+    masterpiece: "「呪術廻戦」七海建人役など"
   },
   {
     id: 215,
@@ -2370,7 +2584,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B1%8B%E7%A5%9E%E8%91%89",
-    twitter_url: "https://twitter.com/SimbaTsuchiyaMG"
+    twitter_url: "https://twitter.com/SimbaTsuchiyaMG",
+    masterpiece: "「ハイキュー!!」五色工役など"
   },
   {
     id: 216,
@@ -2381,7 +2596,8 @@
     prefecture: "兵庫県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%81%92%E6%9D%BE%E3%81%82%E3%82%86%E3%81%BF",
-    twitter_url: "https://twitter.com/amyonn"
+    twitter_url: "https://twitter.com/amyonn",
+    masterpiece: "「絶体絶命でんぢゃらすじーさん」孫役など"
   },
   {
     id: 217,
@@ -2392,7 +2608,8 @@
     prefecture: "神奈川県",
     address: "横浜市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%B6%B4%E3%81%B2%E3%82%8D%E3%81%BF",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ドラゴンボール」ブルマ役など"
   },
   {
     id: 218,
@@ -2403,7 +2620,8 @@
     prefecture: "石川県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%AF%BA%E5%B3%B6%E6%8B%93%E7%AF%A4",
-    twitter_url: "https://twitter.com/Terashima_dayo"
+    twitter_url: "https://twitter.com/Terashima_dayo",
+    masterpiece: "「うたの☆プリンスさまっ♪」一十木音也役など"
   },
   {
     id: 219,
@@ -2414,7 +2632,8 @@
     prefecture: "大阪府",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E3%81%A6%E3%82%89%E3%81%9D%E3%81%BE%E3%81%BE%E3%81%95%E3%81%8D",
-    twitter_url: "https://twitter.com/terasomasaki"
+    twitter_url: "https://twitter.com/terasomasaki",
+    masterpiece: "「NARUTO疾風伝」飛段役など"
   },
   {
     id: 220,
@@ -2425,7 +2644,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%9C%B0%E5%AE%8F%E6%A8%B9",
-    twitter_url: "https://twitter.com/hirokitouchi"
+    twitter_url: "https://twitter.com/hirokitouchi",
+    masterpiece: "「BLEACH」銀城空吾役など"
   },
   {
     id: 221,
@@ -2436,7 +2656,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%B1%B1%E5%A5%88%E5%A4%AE",
-    twitter_url: "https://twitter.com/naobou_official"
+    twitter_url: "https://twitter.com/naobou_official",
+    masterpiece: "「ニセコイ」桐崎千棘役など"
   },
   {
     id: 222,
@@ -2447,7 +2668,8 @@
     prefecture: "山口県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%81%A0%E8%BF%91%E5%AD%9D%E4%B8%80",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「NARUTO」日向ネジ役など"
   },
   {
     id: 223,
@@ -2458,7 +2680,8 @@
     prefecture: "千葉県",
     address: "南房総市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%BE%B3%E4%BA%95%E9%9D%92%E7%A9%BA",
-    twitter_url: "https://twitter.com/tokui_sorangley"
+    twitter_url: "https://twitter.com/tokui_sorangley",
+    masterpiece: "「ラブライブ!」矢澤にこ役など"
   },
   {
     id: 224,
@@ -2469,7 +2692,8 @@
     prefecture: "愛知県",
     address: "名古屋市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%88%B8%E7%94%B0%E6%81%B5%E5%AD%90",
-    twitter_url: "https://twitter.com/toda_otokuri"
+    twitter_url: "https://twitter.com/toda_otokuri",
+    masterpiece: "「それいけ!アンパンマン」アンパンマン役など"
   },
   {
     id: 225,
@@ -2480,7 +2704,8 @@
     prefecture: "茨城県",
     address: "水戸市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%A3%9B%E7%94%B0%E5%B1%95%E7%94%B7",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ちびまる子ちゃん」丸尾末男役など"
   },
   {
     id: 226,
@@ -2491,7 +2716,8 @@
     prefecture: "愛知県",
     address: "一宮市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%88%B8%E6%9D%BE%E9%81%A5",
-    twitter_url: "https://twitter.com/sharkharukas"
+    twitter_url: "https://twitter.com/sharkharukas",
+    masterpiece: "「ソードアート・オンライン」結城明日奈役など"
   },
   {
     id: 227,
@@ -2502,7 +2728,8 @@
     prefecture: "広島県",
     address: "広島市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%86%A8%E6%B0%B8%E3%81%BF%E3%83%BC%E3%81%AA",
-    twitter_url: "https://twitter.com/tominagamiina"
+    twitter_url: "https://twitter.com/tominagamiina",
+    masterpiece: "「サザエさん」磯野カツオ役など"
   },
   {
     id: 228,
@@ -2513,7 +2740,8 @@
     prefecture: "東京都",
     address: "町田市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%B1%8A%E5%8F%A3%E3%82%81%E3%81%90%E3%81%BF",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ポケットモンスター ダイヤモンド&パール」ヒカリ役など"
   },
   {
     id: 229,
@@ -2524,7 +2752,8 @@
     prefecture: "徳島県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%B1%8A%E5%B4%8E%E6%84%9B%E7%94%9F",
-    twitter_url: "https://twitter.com/a_toyosaki_yoda"
+    twitter_url: "https://twitter.com/a_toyosaki_yoda",
+    masterpiece: "「けいおん!」平沢唯役など"
   },
   {
     id: 230,
@@ -2535,7 +2764,8 @@
     prefecture: "東京都",
     address: "八王子市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%B0%B8%E5%88%A9%E8%A1%8C",
-    twitter_url: "https://twitter.com/TossuiKUN"
+    twitter_url: "https://twitter.com/TossuiKUN",
+    masterpiece: "「文豪ストレイドッグス」谷崎潤一郎役など"
   },
   {
     id: 231,
@@ -2546,7 +2776,8 @@
     prefecture: "神奈川県",
     address: "茅ヶ崎市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%B3%A5%E6%B5%B7%E6%B5%A9%E8%BC%94",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「NARUTO」犬塚キバ役など"
   },
   {
     id: 232,
@@ -2557,7 +2788,8 @@
     prefecture: "大分県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%8D%9A%E5%8F%B2",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ONE PIECE」モンキー・D・ガープ役など"
   },
   {
     id: 233,
@@ -2568,7 +2800,8 @@
     prefecture: "大阪府",
     address: "池田市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%B0%B8%E4%BA%95%E4%B8%80%E9%83%8E",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「サザエさん」磯野波平役など"
   },
   {
     id: 234,
@@ -2579,7 +2812,8 @@
     prefecture: "兵庫県",
     address: "神戸市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%B8%AD%E4%BA%95%E5%92%8C%E5%93%89",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ONE PIECE」ロロノア・ゾロ役など"
   },
   {
     id: 235,
@@ -2590,7 +2824,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B0%BE%E9%9A%86%E8%81%96",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ドラゴンボールZ」フリーザ役など"
   },
   {
     id: 236,
@@ -2600,8 +2835,9 @@
     first_name_kana: "めぐみ",
     prefecture: "茨城県",
     address: "水戸市",
-    wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B3%B6%E6%84%9B_(%E5%A3%B0%E5%84%AA)",
-    twitter_url: "https://twitter.com/mamegu_staff"
+    wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B3%B6%E6%84%9B",
+    twitter_url: "https://twitter.com/mamegu_staff",
+    masterpiece: "「マクロスF」ランカ・リー役など"
   },
   {
     id: 237,
@@ -2612,7 +2848,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%B8%AD%E7%94%B0%E8%AD%B2%E6%B2%BB",
-    twitter_url: "https://twitter.com/joujinakata123"
+    twitter_url: "https://twitter.com/joujinakata123",
+    masterpiece: "「ケロロ軍曹」ギロロ伍長役など"
   },
   {
     id: 238,
@@ -2623,7 +2860,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E5%8D%83%E7%B5%B5",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「NARUTO」春野サクラ役など"
   },
   {
     id: 239,
@@ -2634,7 +2872,8 @@
     prefecture: "香川県",
     address: "高松市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E6%82%A0%E4%B8%80",
-    twitter_url: "https://twitter.com/nakamuraFF11"
+    twitter_url: "https://twitter.com/nakamuraFF11",
+    masterpiece: "「呪術廻戦」五条悟役など"
   },
   {
     id: 240,
@@ -2645,7 +2884,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%A1%9A%E4%BD%B3%E7%B9%94",
-    twitter_url: "https://twitter.com/nazukakaori"
+    twitter_url: "https://twitter.com/nazukakaori",
+    masterpiece: "「僕のヒーローアカデミア」葉隠透役など"
   },
   {
     id: 241,
@@ -2656,7 +2896,8 @@
     prefecture: "神奈川県",
     address: "横浜市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%94%9F%E5%A4%A9%E7%9B%AE%E4%BB%81%E7%BE%8E",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「BLEACH」伊勢七緒役など"
   },
   {
     id: 242,
@@ -2667,7 +2908,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%B5%AA%E5%B7%9D%E5%A4%A7%E8%BC%94",
-    twitter_url: "https://twitter.com/namidai0402"
+    twitter_url: "https://twitter.com/namidai0402",
+    masterpiece: "「ONE PIECE」ユースタス・キッド役など"
   },
   {
     id: 243,
@@ -2678,7 +2920,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E3%81%AA%E3%82%89%E3%81%AF%E3%81%97%E3%81%BF%E3%81%8D",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「クレヨンしんちゃん」野原みさえ役など"
   },
   {
     id: 244,
@@ -2689,7 +2932,8 @@
     prefecture: "静岡県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%A2%9D%E6%84%9B%E4%B9%83",
-    twitter_url: "https://twitter.com/nanjolno"
+    twitter_url: "https://twitter.com/nanjolno",
+    masterpiece: "「ラブライブ!」絢瀬絵里役など"
   },
   {
     id: 245,
@@ -2700,7 +2944,8 @@
     prefecture: "大阪府",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%87%9C%E5%A4%AA%E6%9C%97",
-    twitter_url: "https://twitter.com/rintarowest"
+    twitter_url: "https://twitter.com/rintarowest",
+    masterpiece: "「BLEACH」射場鉄左衛門役など"
   },
   {
     id: 246,
@@ -2711,7 +2956,8 @@
     prefecture: "千葉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%9D%91%E7%9F%A5%E9%81%93",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「SLAM DUNK」安西先生役など"
   },
   {
     id: 247,
@@ -2722,7 +2968,8 @@
     prefecture: "神奈川県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B1%B1%E5%AE%8F%E5%A4%AA%E6%9C%97",
-    twitter_url: "https://twitter.com/Koutarotaro"
+    twitter_url: "https://twitter.com/Koutarotaro",
+    masterpiece: "「ハイキュー!!」成田一仁役など"
   },
   {
     id: 248,
@@ -2733,7 +2980,8 @@
     prefecture: "長野県",
     address: "長野市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%96%B0%E7%94%B0%E6%81%B5%E6%B5%B7",
-    twitter_url: "https://twitter.com/nittaemi85"
+    twitter_url: "https://twitter.com/nittaemi85",
+    masterpiece: "「ラブライブ!」高坂穂乃果役など"
   },
   {
     id: 249,
@@ -2744,7 +2992,8 @@
     prefecture: "神奈川県",
     address: "横浜市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%B2%BC%E5%80%89%E6%84%9B%E7%BE%8E",
-    twitter_url: "https://twitter.com/numakura_manami"
+    twitter_url: "https://twitter.com/numakura_manami",
+    masterpiece: "「Dr.STONE」コハク役など"
   },
   {
     id: 250,
@@ -2755,7 +3004,8 @@
     prefecture: "東京都",
     address: "荒川区",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%87%8E%E6%B2%A2%E9%9B%85%E5%AD%90",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ドラゴンボール」孫悟空役など"
   },
   {
     id: 251,
@@ -2766,7 +3016,8 @@
     prefecture: "東京都",
     address: "西東京市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%87%8E%E5%B3%B6%E6%98%AD%E7%94%9F",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「Dr.スランプ アラレちゃん」Dr.マシリト役など"
   },
   {
     id: 252,
@@ -2777,7 +3028,8 @@
     prefecture: "東京都",
     address: "杉並区",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%87%8E%E5%B3%B6%E5%81%A5%E5%85%90_(%E5%A3%B0%E5%84%AA)",
-    twitter_url: "https://twitter.com/nojimakenji"
+    twitter_url: "https://twitter.com/nojimakenji",
+    masterpiece: "「ハイキュー!! TO THE TOP」北信介役など"
   },
   {
     id: 253,
@@ -2788,7 +3040,8 @@
     prefecture: "東京都",
     address: "杉並区",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%87%8E%E5%B3%B6%E8%A3%95%E5%8F%B2",
-    twitter_url: "https://twitter.com/nojimahirofumi"
+    twitter_url: "https://twitter.com/nojimahirofumi",
+    masterpiece: "「黒子のバスケ」伊月俊役など"
   },
   {
     id: 254,
@@ -2799,7 +3052,8 @@
     prefecture: "大阪府",
     address: "大阪市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%87%8E%E7%94%B0%E9%A0%86%E5%AD%90",
-    twitter_url: "https://twitter.com/NODA_JUN"
+    twitter_url: "https://twitter.com/NODA_JUN",
+    masterpiece: "「ONE PIECE」たしぎ役など"
   },
   {
     id: 255,
@@ -2810,7 +3064,8 @@
     prefecture: "石川県",
     address: "金沢市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%83%BD%E7%99%BB%E9%BA%BB%E7%BE%8E%E5%AD%90",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「NARUTO」カツユ役など"
   },
   {
     id: 256,
@@ -2821,7 +3076,8 @@
     prefecture: "福岡県",
     address: "福岡市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%87%8E%E4%B8%AD%E8%97%8D",
-    twitter_url: "https://twitter.com/rarirurestn"
+    twitter_url: "https://twitter.com/rarirurestn",
+    masterpiece: "「ボボボーボ・ボーボボ」ビュティ役など"
   },
   {
     id: 257,
@@ -2832,7 +3088,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/Pile",
-    twitter_url: "https://twitter.com/pile_eric"
+    twitter_url: "https://twitter.com/pile_eric",
+    masterpiece: "「ラブライブ!」西木野真姫役など"
   },
   {
     id: 258,
@@ -2843,7 +3100,8 @@
     prefecture: "東京都",
     address: "江戸川区",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9C%B4%E7%92%90%E7%BE%8E",
-    twitter_url: "https://twitter.com/romiansaran"
+    twitter_url: "https://twitter.com/romiansaran",
+    masterpiece: "「BLEACH」日番谷冬獅郎役など"
   },
   {
     id: 259,
@@ -2854,7 +3112,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B8%AB%E5%AD%9D%E4%B9%9F",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「NARUTO疾風伝」角都役など"
   },
   {
     id: 260,
@@ -2865,7 +3124,8 @@
     prefecture: "神奈川県",
     address: "相模原市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%95%A0%E4%B8%AD%E7%A5%90",
-    twitter_url: "https://twitter.com/tasuku_kenpro"
+    twitter_url: "https://twitter.com/tasuku_kenpro",
+    masterpiece: "「僕のヒーローアカデミア」上鳴電気役など"
   },
   {
     id: 261,
@@ -2876,7 +3136,8 @@
     prefecture: "長野県",
     address: "東筑摩郡朝日村",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%BE%BD%E5%A4%9A%E9%87%8E%E6%B8%89",
-    twitter_url: "https://twitter.com/hatano_official"
+    twitter_url: "https://twitter.com/hatano_official",
+    masterpiece: "「黒子のバスケ」実渕玲央役など"
   },
   {
     id: 262,
@@ -2887,7 +3148,8 @@
     prefecture: "神奈川県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%8A%B1%E6%B1%9F%E5%A4%8F%E6%A8%B9",
-    twitter_url: "https://twitter.com/hanae0626"
+    twitter_url: "https://twitter.com/hanae0626",
+    masterpiece: "「鬼滅の刃」竈門炭治郎役など"
   },
   {
     id: 263,
@@ -2898,7 +3160,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%8A%B1%E6%BE%A4%E9%A6%99%E8%8F%9C",
-    twitter_url: "https://twitter.com/hanazawa_staff"
+    twitter_url: "https://twitter.com/hanazawa_staff",
+    masterpiece: "「はたらく細胞」赤血球役など"
   },
   {
     id: 264,
@@ -2909,7 +3172,8 @@
     prefecture: "福岡県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%B5%9C%E7%94%B0%E8%B3%A2%E4%BA%8C",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「黒子のバスケ」木吉鉄平役など"
   },
   {
     id: 265,
@@ -2920,7 +3184,8 @@
     prefecture: "神奈川県",
     address: "座間市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9E%97%E5%8B%87_(%E5%A3%B0%E5%84%AA)",
-    twitter_url: "https://twitter.com/voice_singing"
+    twitter_url: "https://twitter.com/voice_singing",
+    masterpiece: "「ハイキュー!!」田中龍之介役など"
   },
   {
     id: 266,
@@ -2931,7 +3196,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9E%97%E5%8E%9F%E3%82%81%E3%81%90%E3%81%BF",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「新世紀エヴァンゲリオン」綾波レイ役など"
   },
   {
     id: 267,
@@ -2942,7 +3208,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%97%A9%E8%A6%8B%E6%B2%99%E7%B9%94",
-    twitter_url: "https://twitter.com/hayami_official"
+    twitter_url: "https://twitter.com/hayami_official",
+    masterpiece: "「鬼滅の刃」胡蝶しのぶ役など"
   },
   {
     id: 268,
@@ -2953,7 +3220,8 @@
     prefecture: "兵庫県",
     address: "高砂市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%80%9F%E6%B0%B4%E5%A5%A8",
-    twitter_url: "https://twitter.com/show_ism"
+    twitter_url: "https://twitter.com/show_ism",
+    masterpiece: "「BLEACH」藍染惣右介役など"
   },
   {
     id: 269,
@@ -2964,7 +3232,8 @@
     prefecture: "大阪府",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%97%A9%E6%B0%B4%E3%83%AA%E3%82%B5",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「銀魂」来島また子役など"
   },
   {
     id: 270,
@@ -2975,7 +3244,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%BD%98%E3%82%81%E3%81%90%E3%81%BF",
-    twitter_url: "https://twitter.com/han_meg_han"
+    twitter_url: "https://twitter.com/han_meg_han",
+    masterpiece: "「HUNTER×HUNTER」ゴン＝フリークス役など"
   },
   {
     id: 271,
@@ -2986,7 +3256,8 @@
     prefecture: "神奈川県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AC%A0%E9%99%BD%E5%AD%90",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「けいおん!」秋山澪役など"
   },
   {
     id: 272,
@@ -2997,7 +3268,8 @@
     prefecture: "大阪府",
     address: "貝塚市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%B9%85%E5%B7%9D%E7%B6%BE",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「BLEACH」卯ノ花烈役など"
   },
   {
     id: 273,
@@ -3008,7 +3280,8 @@
     prefecture: "東京都",
     address: "千代田区",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%AB%99%E3%81%AE%E3%82%8A%E5%AD%90",
-    twitter_url: "https://twitter.com/nonko_hidaka531"
+    twitter_url: "https://twitter.com/nonko_hidaka531",
+    masterpiece: "「タッチ」浅倉南役など"
   },
   {
     id: 274,
@@ -3019,7 +3292,8 @@
     prefecture: "千葉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%AB%98%E9%87%8C%E8%8F%9C",
-    twitter_url: "https://twitter.com/hidaka_rina0615"
+    twitter_url: "https://twitter.com/hidaka_rina0615",
+    masterpiece: "「ソードアート・オンライン」綾野珪子役など"
   },
   {
     id: 275,
@@ -3030,7 +3304,8 @@
     prefecture: "アメリカ",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%87%8E%E8%81%A1",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「鬼滅の刃」煉󠄁獄杏寿郎役など"
   },
   {
     id: 276,
@@ -3041,7 +3316,8 @@
     prefecture: "広島県",
     address: "廿日市市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%AA%9C%E5%B1%B1%E4%BF%AE%E4%B9%8B",
-    twitter_url: "https://twitter.com/onsen_hanadi"
+    twitter_url: "https://twitter.com/onsen_hanadi",
+    masterpiece: "「幽☆遊☆白書」飛影役など"
   },
   {
     id: 277,
@@ -3052,7 +3328,8 @@
     prefecture: "新潟県",
     address: "新潟市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%B7%9D%E5%A4%A7%E8%BC%94",
-    twitter_url: "https://twitter.com/DH_official__"
+    twitter_url: "https://twitter.com/DH_official__",
+    masterpiece: "「鬼滅の刃」魘夢役など"
   },
   {
     id: 278,
@@ -3063,7 +3340,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B9%B3%E7%94%B0%E5%BA%83%E6%98%8E",
-    twitter_url: "https://twitter.com/hiratapro"
+    twitter_url: "https://twitter.com/hiratapro",
+    masterpiece: "「ONE PIECE」サンジ役など"
   },
   {
     id: 279,
@@ -3074,7 +3352,8 @@
     prefecture: "愛知県",
     address: "名古屋市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B9%B3%E9%87%8E%E7%B6%BE",
-    twitter_url: "https://twitter.com/Hysteric_Barbie"
+    twitter_url: "https://twitter.com/Hysteric_Barbie",
+    masterpiece: "「涼宮ハルヒの憂鬱」涼宮ハルヒ役など"
   },
   {
     id: 280,
@@ -3085,7 +3364,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B9%B3%E9%87%8E%E6%96%87",
-    twitter_url: "https://twitter.com/hiranofumi"
+    twitter_url: "https://twitter.com/hiranofumi",
+    masterpiece: "「うる星やつら」ラム役など"
   },
   {
     id: 281,
@@ -3096,7 +3376,8 @@
     prefecture: "新潟県",
     address: "見附市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%BA%83%E6%A9%8B%E6%B6%BC",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「僕のヒーローアカデミア」峰田実役など"
   },
   {
     id: 282,
@@ -3107,7 +3388,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%9C%93%E7%BE%8E%E9%87%8C",
-    twitter_url: "https://twitter.com/misa0110"
+    twitter_url: "https://twitter.com/misa0110",
+    masterpiece: "「僕のヒーローアカデミア」トガヒミコ役など"
   },
   {
     id: 283,
@@ -3118,7 +3400,8 @@
     prefecture: "愛媛県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E6%BD%A4",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「弱虫ペダル」鳴子章吉役など"
   },
   {
     id: 284,
@@ -3129,7 +3412,8 @@
     prefecture: "大阪府",
     address: "高槻市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B1%B1%E6%BD%A4",
-    twitter_url: "https://twitter.com/f_junjun_music"
+    twitter_url: "https://twitter.com/f_junjun_music",
+    masterpiece: "「おそ松さん」松野一松役など"
   },
   {
     id: 285,
@@ -3140,7 +3424,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%97%A4%E7%94%B0%E5%92%B2",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「進撃の巨人」ユミル役など"
   },
   {
     id: 286,
@@ -3151,7 +3436,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E5%95%93%E6%B2%BB",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「クレヨンしんちゃん」野原ひろし役など"
   },
   {
     id: 287,
@@ -3162,7 +3448,8 @@
     prefecture: "福岡県",
     address: "福岡市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%B8%95%E4%B8%8A%E8%88%9E",
-    twitter_url: "https://twitter.com/fuchigami_mai"
+    twitter_url: "https://twitter.com/fuchigami_mai",
+    masterpiece: "「暗殺教室」潮田渚役など"
   },
   {
     id: 288,
@@ -3173,7 +3460,8 @@
     prefecture: "栃木県",
     address: "栃木市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B7%9D%E7%99%BB%E5%BF%97%E5%A4%AB",
-    twitter_url: "https://twitter.com/TOSHIO_FURUKAWA"
+    twitter_url: "https://twitter.com/TOSHIO_FURUKAWA",
+    masterpiece: "「ONE PIECE」ポートガス・D・エース役など"
   },
   {
     id: 289,
@@ -3184,7 +3472,8 @@
     prefecture: "神奈川県",
     address: "横浜市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%8F%A4%E8%B0%B7%E5%BE%B9",
-    twitter_url: "https://twitter.com/torushome"
+    twitter_url: "https://twitter.com/torushome",
+    masterpiece: "「機動戦士ガンダム」アムロ・レイ役など"
   },
   {
     id: 290,
@@ -3195,7 +3484,8 @@
     prefecture: "福島県",
     address: "会津若松市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%BF%9D%E5%BF%97%E7%B7%8F%E4%B8%80%E6%9C%97",
-    twitter_url: "https://twitter.com/HoshiSoichiro"
+    twitter_url: "https://twitter.com/HoshiSoichiro",
+    masterpiece: "「機動戦士ガンダムSEED」キラ・ヤマト役など"
   },
   {
     id: 291,
@@ -3206,7 +3496,8 @@
     prefecture: "広島県",
     address: "尾道市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%B4%B0%E8%B0%B7%E4%BD%B3%E6%AD%A3",
-    twitter_url: "https://twitter.com/bokudake369"
+    twitter_url: "https://twitter.com/bokudake369",
+    masterpiece: "「黒子のバスケ」日向順平役など"
   },
   {
     id: 292,
@@ -3217,7 +3508,8 @@
     prefecture: "静岡県",
     address: "御殿場市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%A0%80%E5%86%85%E8%B3%A2%E9%9B%84",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ONE PIECE」錦えもん役など"
   },
   {
     id: 293,
@@ -3228,7 +3520,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%A0%80%E6%B1%9F%E7%94%B1%E8%A1%A3",
-    twitter_url: "https://twitter.com/horieyui_staff"
+    twitter_url: "https://twitter.com/horieyui_staff",
+    masterpiece: "「シャーマンキング」アイアンメイデン・ジャンヌ役など"
   },
   {
     id: 294,
@@ -3239,7 +3532,8 @@
     prefecture: "大阪府",
     address: "枚方市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%A0%80%E5%B7%9D%E3%82%8A%E3%82%87%E3%81%86",
-    twitter_url: "https://twitter.com/ryohorikawa"
+    twitter_url: "https://twitter.com/ryohorikawa",
+    masterpiece: "「ドラゴンボールZ」ベジータ役など"
   },
   {
     id: 295,
@@ -3250,7 +3544,8 @@
     prefecture: "茨城県",
     address: "下妻市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%89%8D%E9%87%8E%E6%99%BA%E6%98%AD",
-    twitter_url: "https://twitter.com/Tomoaki___Maeno"
+    twitter_url: "https://twitter.com/Tomoaki___Maeno",
+    masterpiece: "「はたらく細胞」白血球役など"
   },
   {
     id: 296,
@@ -3261,7 +3556,8 @@
     prefecture: "三重県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%89%A7%E9%87%8E%E7%94%B1%E4%BE%9D",
-    twitter_url: "https://twitter.com/yuiyui_makino"
+    twitter_url: "https://twitter.com/yuiyui_makino",
+    masterpiece: "「ツバサ・クロニクル」サクラ役など"
   },
   {
     id: 297,
@@ -3272,7 +3568,8 @@
     prefecture: "群馬県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%9C%9F%E6%9F%B4%E6%91%A9%E5%88%A9",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「クレヨンしんちゃん」風間くん役など"
   },
   {
     id: 298,
@@ -3283,7 +3580,8 @@
     prefecture: "埼玉県",
     address: "さいたま市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%A2%97%E5%B2%A1%E5%BC%98",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「サザエさん」フグ田マスオ役など"
   },
   {
     id: 299,
@@ -3294,7 +3592,8 @@
     prefecture: "広島県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%A2%97%E7%94%B0%E4%BF%8A%E6%A8%B9",
-    twitter_url: "https://twitter.com/ToshikiMasuda38"
+    twitter_url: "https://twitter.com/ToshikiMasuda38",
+    masterpiece: "「僕のヒーローアカデミア」切島鋭児郎役など"
   },
   {
     id: 300,
@@ -3305,7 +3604,8 @@
     prefecture: "大阪府",
     address: "大阪市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B2%A1%E7%94%B1%E8%B2%B4",
-    twitter_url: "https://twitter.com/seika_oda"
+    twitter_url: "https://twitter.com/seika_oda",
+    masterpiece: "「BLEACH」井上織姫役など"
   },
   {
     id: 301,
@@ -3316,7 +3616,8 @@
     prefecture: "北海道",
     address: "帯広市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B2%A1%E7%A6%8E%E4%B8%9E",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「鬼滅の刃」嘴平伊之助役など"
   },
   {
     id: 302,
@@ -3327,7 +3628,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9D%BE%E9%A2%A8%E9%9B%85%E4%B9%9F",
-    twitter_url: "https://twitter.com/matsukazest"
+    twitter_url: "https://twitter.com/matsukazest",
+    masterpiece: "「斉木楠雄のΨ難」才虎芽斗吏役など"
   },
   {
     id: 303,
@@ -3338,7 +3640,8 @@
     prefecture: "広島県",
     address: "呉市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9D%A5%E6%9C%AA%E7%A5%90",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ハヤテのごとく!」鷺ノ宮伊澄役など"
   },
   {
     id: 304,
@@ -3349,7 +3652,8 @@
     prefecture: "神奈川県",
     address: "横浜市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9C%AC%E6%A2%A8%E9%A6%99",
-    twitter_url: "https://twitter.com/rica_matsumoto3"
+    twitter_url: "https://twitter.com/rica_matsumoto3",
+    masterpiece: "「ポケットモンスター」サトシ役など"
   },
   {
     id: 305,
@@ -3360,7 +3664,8 @@
     prefecture: "広島県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%9C%9F%E6%AE%BF%E5%85%89%E6%98%AD",
-    twitter_url: "https://twitter.com/madonodono"
+    twitter_url: "https://twitter.com/madonodono",
+    masterpiece: "「銀魂」伊東鴨太郎役など"
   },
   {
     id: 306,
@@ -3371,7 +3676,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9C%A8%E7%9C%9E%E4%B8%80%E9%83%8E",
-    twitter_url: "https://twitter.com/miki_shin318"
+    twitter_url: "https://twitter.com/miki_shin318",
+    masterpiece: "「ポケットモンスター」コジロウ役など"
   },
   {
     id: 307,
@@ -3382,7 +3688,8 @@
     prefecture: "愛媛県",
     address: "新居浜市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%A8%B9%E5%A5%88%E3%80%85",
-    twitter_url: "https://twitter.com/NM_NANAPARTY"
+    twitter_url: "https://twitter.com/NM_NANAPARTY",
+    masterpiece: "「NARUTO」日向ヒナタ役など"
   },
   {
     id: 308,
@@ -3393,7 +3700,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%B3%B6%E8%A3%95_(%E5%A3%B0%E5%84%AA)",
-    twitter_url: "https://twitter.com/goofyalice2013"
+    twitter_url: "https://twitter.com/goofyalice2013",
+    masterpiece: "「ONE PIECE」河松役など"
   },
   {
     id: 309,
@@ -3404,7 +3712,8 @@
     prefecture: "三重県",
     address: "伊賀市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%B0%B4%E7%94%B0%E3%82%8F%E3%81%95%E3%81%B3",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ドラえもん」ドラえもん役など"
   },
   {
     id: 310,
@@ -3415,7 +3724,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%B8%89%E7%9F%B3%E7%90%B4%E4%B9%83",
-    twitter_url: "https://twitter.com/kotochawanmoon"
+    twitter_url: "https://twitter.com/kotochawanmoon",
+    masterpiece: "「美少女戦士セーラームーン」月野うさぎ役など"
   },
   {
     id: 311,
@@ -3426,7 +3736,8 @@
     prefecture: "愛知県",
     address: "豊橋市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%B8%89%E3%83%84%E7%9F%A2%E9%9B%84%E4%BA%8C",
-    twitter_url: "https://twitter.com/yujilovehappy"
+    twitter_url: "https://twitter.com/yujilovehappy",
+    masterpiece: "「タッチ」上杉達也役など"
   },
   {
     id: 312,
@@ -3437,7 +3748,8 @@
     prefecture: "栃木県",
     address: "大田原市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%B7%91%E5%B7%9D%E5%85%89",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「SLAM DUNK」流川楓役など"
   },
   {
     id: 313,
@@ -3448,7 +3760,8 @@
     prefecture: "茨城県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%9A%86%E5%B7%9D%E7%B4%94%E5%AD%90",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「テニスの王子様」越前リョーマ役など"
   },
   {
     id: 314,
@@ -3459,7 +3772,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%B0%B4%E7%80%AC%E3%81%84%E3%81%AE%E3%82%8A",
-    twitter_url: "https://twitter.com/inoriminase"
+    twitter_url: "https://twitter.com/inoriminase",
+    masterpiece: "「Re:ゼロから始める異世界生活」レム役など"
   },
   {
     id: 315,
@@ -3470,7 +3784,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%8D%97%E5%A4%AE%E7%BE%8E",
-    twitter_url: "https://twitter.com/oranje_omi"
+    twitter_url: "https://twitter.com/oranje_omi",
+    masterpiece: "「銀魂」たま役など"
   },
   {
     id: 316,
@@ -3481,7 +3796,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%A3%AE%E3%81%99%E3%81%9A%E3%81%93",
-    twitter_url: "https://twitter.com/mimori_suzuko"
+    twitter_url: "https://twitter.com/mimori_suzuko",
+    masterpiece: "「ラブライブ!」園田海未役など"
   },
   {
     id: 317,
@@ -3492,7 +3808,8 @@
     prefecture: "沖縄県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%AE%85%E5%81%A5%E5%A4%AA",
-    twitter_url: "https://twitter.com/miyake_ktrm"
+    twitter_url: "https://twitter.com/miyake_ktrm",
+    masterpiece: "「僕のヒーローアカデミア」オールマイト役など"
   },
   {
     id: 318,
@@ -3503,7 +3820,8 @@
     prefecture: "神奈川県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%AE%AE%E7%94%B0%E5%B9%B8%E5%AD%A3",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「鬼滅の刃」村田役など"
   },
   {
     id: 319,
@@ -3514,7 +3832,8 @@
     prefecture: "埼玉県",
     address: "さいたま市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%AE%AE%E9%87%8E%E7%9C%9F%E5%AE%88",
-    twitter_url: "https://twitter.com/miyanomamoru_PR"
+    twitter_url: "https://twitter.com/miyanomamoru_PR",
+    masterpiece: "「DEATH NOTE」夜神月役など"
   },
   {
     id: 320,
@@ -3525,7 +3844,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9D%91%E5%B7%9D%E6%A2%A8%E8%A1%A3",
-    twitter_url: "https://twitter.com/RiEmagic"
+    twitter_url: "https://twitter.com/RiEmagic",
+    masterpiece: "「Re:ゼロから始める異世界生活」ラム役など"
   },
   {
     id: 321,
@@ -3536,7 +3856,8 @@
     prefecture: "アメリカ",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9D%91%E7%80%AC%E6%AD%A9",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「ハイキュー!!」日向翔陽役など"
   },
   {
     id: 322,
@@ -3547,7 +3868,8 @@
     prefecture: "茨城県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9D%91%E4%B8%AD%E7%9F%A5",
-    twitter_url: "https://twitter.com/king_of_bath"
+    twitter_url: "https://twitter.com/king_of_bath",
+    masterpiece: "「ワールドトリガー」空閑遊真役など"
   },
   {
     id: 323,
@@ -3558,7 +3880,8 @@
     prefecture: "神奈川県",
     address: "横浜市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%A3%AE%E5%B7%9D%E6%99%BA%E4%B9%8B",
-    twitter_url: "https://twitter.com/moriax291"
+    twitter_url: "https://twitter.com/moriax291",
+    masterpiece: "「鬼滅の刃」産屋敷耀哉役など"
   },
   {
     id: 324,
@@ -3569,7 +3892,8 @@
     prefecture: "東京都",
     address: "八王子市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%A3%AE%E4%B9%85%E4%BF%9D%E7%A5%A5%E5%A4%AA%E9%83%8E",
-    twitter_url: "https://twitter.com/MorikuBorn"
+    twitter_url: "https://twitter.com/MorikuBorn",
+    masterpiece: "「メジャー」茂野吾郎役など"
   },
   {
     id: 325,
@@ -3580,7 +3904,8 @@
     prefecture: "東京都",
     address: "墨田区",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%A3%AE%E7%94%B0%E6%88%90%E4%B8%80",
-    twitter_url: "https://twitter.com/edokko_dey"
+    twitter_url: "https://twitter.com/edokko_dey",
+    masterpiece: "「BLEACH」黒崎一護役など"
   },
   {
     id: 326,
@@ -3591,7 +3916,8 @@
     prefecture: "神奈川県",
     address: "足柄上郡大井町",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%AB%B8%E6%98%9F%E3%81%99%E3%81%BF%E3%82%8C",
-    twitter_url: "https://twitter.com/smileysuu"
+    twitter_url: "https://twitter.com/smileysuu",
+    masterpiece: "「約束のネバーランド」エマ役など"
   },
   {
     id: 327,
@@ -3602,7 +3928,8 @@
     prefecture: "石川県",
     address: "金沢市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%9F%A2%E5%B0%BE%E4%B8%80%E6%A8%B9",
-    twitter_url: "https://twitter.com/yaochan_defu"
+    twitter_url: "https://twitter.com/yaochan_defu",
+    masterpiece: "「ONE PIECE」フランキー役など"
   },
   {
     id: 328,
@@ -3613,7 +3940,8 @@
     prefecture: "新潟県",
     address: "柏崎市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%9F%A2%E5%B3%B6%E6%99%B6%E5%AD%90",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「クレヨンしんちゃん」野原しんのすけ役など"
   },
   {
     id: 329,
@@ -3624,7 +3952,8 @@
     prefecture: "山口県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%85%83%E6%B4%8B%E8%B2%B4",
-    twitter_url: "https://twitter.com/__yasumoto__"
+    twitter_url: "https://twitter.com/__yasumoto__",
+    masterpiece: "「BLEACH」茶渡泰虎役など"
   },
   {
     id: 330,
@@ -3635,7 +3964,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E7%9F%A2%E4%BD%9C%E7%B4%97%E5%8F%8B%E9%87%8C",
-    twitter_url: "https://twitter.com/yahagi_sayuri"
+    twitter_url: "https://twitter.com/yahagi_sayuri",
+    masterpiece: "「To LOVEる」西連寺春菜役など"
   },
   {
     id: 331,
@@ -3646,7 +3976,8 @@
     prefecture: "福岡県",
     address: "福岡市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E5%8B%9D%E5%B9%B3",
-    twitter_url: "https://twitter.com/ENma_Dororon"
+    twitter_url: "https://twitter.com/ENma_Dororon",
+    masterpiece: "「名探偵コナン」工藤新一役など"
   },
   {
     id: 332,
@@ -3657,7 +3988,8 @@
     prefecture: "大阪府",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E7%94%B1%E9%87%8C%E5%AD%90",
-    twitter_url: "https://twitter.com/yurituki1121"
+    twitter_url: "https://twitter.com/yurituki1121",
+    masterpiece: "「ONE PIECE」ニコ・ロビン役など"
   },
   {
     id: 333,
@@ -3668,7 +4000,8 @@
     prefecture: "東京都",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%B4%8E%E3%81%9F%E3%81%8F%E3%81%BF",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「銀魂」河上万斉役など"
   },
   {
     id: 334,
@@ -3679,7 +4012,8 @@
     prefecture: "三重県",
     address: "伊賀市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B1%B1%E8%B7%AF%E5%92%8C%E5%BC%98",
-    twitter_url: "https://twitter.com/yama_G_108"
+    twitter_url: "https://twitter.com/yama_G_108",
+    masterpiece: "「進撃の巨人」ケニー・アッカーマン役など"
   },
   {
     id: 335,
@@ -3690,7 +4024,8 @@
     prefecture: "静岡県",
     address: "浜松市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8B%E5%A4%A7%E8%BC%9D",
-    twitter_url: "https://twitter.com/DaiKing_boy"
+    twitter_url: "https://twitter.com/DaiKing_boy",
+    masterpiece: "「僕のヒーローアカデミア」緑谷出久役など"
   },
   {
     id: 336,
@@ -3701,7 +4036,8 @@
     prefecture: "宮城県",
     address: "塩竈市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%AF%BA%E5%AE%8F%E4%B8%80",
-    twitter_url: "https://twitter.com/yamachanoha"
+    twitter_url: "https://twitter.com/yamachanoha",
+    masterpiece: "「新世紀エヴァンゲリオン」加持リョウジ役など"
   },
   {
     id: 337,
@@ -3712,7 +4048,8 @@
     prefecture: "千葉県",
     address: "山武市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%82%A0%E6%9C%A8%E7%A2%A7",
-    twitter_url: "https://twitter.com/staff_aoi"
+    twitter_url: "https://twitter.com/staff_aoi",
+    masterpiece: "「魔法少女まどか☆マギカ」鹿目まどか役など"
   },
   {
     id: 338,
@@ -3723,7 +4060,8 @@
     prefecture: "千葉県",
     address: "富津市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E3%82%86%E3%81%8B%E3%81%AA",
-    twitter_url: "https://twitter.com/from_yukana"
+    twitter_url: "https://twitter.com/from_yukana",
+    masterpiece: "「ONE PIECE」しらほし役など"
   },
   {
     id: 339,
@@ -3734,7 +4072,8 @@
     prefecture: "滋賀県",
     address: "大津市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E3%82%86%E3%81%8D%E3%81%AE%E3%81%95%E3%81%A4%E3%81%8D",
-    twitter_url: "https://twitter.com/2011yukino"
+    twitter_url: "https://twitter.com/2011yukino",
+    masterpiece: "「銀魂」志村妙役など"
   },
   {
     id: 340,
@@ -3745,7 +4084,8 @@
     prefecture: "京都府",
     address: "京都市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E9%81%8A%E4%BD%90%E6%B5%A9%E4%BA%8C",
-    twitter_url: "https://twitter.com/shin_o_yusakoji"
+    twitter_url: "https://twitter.com/shin_o_yusakoji",
+    masterpiece: "「BLEACH」市丸ギン役など"
   },
   {
     id: 341,
@@ -3756,7 +4096,8 @@
     prefecture: "愛知県",
     address: "安城市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E6%9F%9A%E6%9C%A8%E6%B6%BC%E9%A6%99",
-    twitter_url: "https://twitter.com/yuzuruu"
+    twitter_url: "https://twitter.com/yuzuruu",
+    masterpiece: "「NARUTO」山中いの役など"
   },  
   {
     id: 342,
@@ -3767,7 +4108,8 @@
     prefecture: "千葉県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E5%90%89%E9%87%8E%E8%A3%95%E8%A1%8C",
-    twitter_url: "https://twitter.com/_yocchin_______"
+    twitter_url: "https://twitter.com/_yocchin_______",
+    masterpiece: "「SKET DANCE」藤崎佑助役など"
   },
   {
     id: 343,
@@ -3778,7 +4120,8 @@
     prefecture: "茨城県",
     address: "牛久市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E4%BB%A3%E6%B0%B8%E7%BF%BC",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「Free!」葉月渚役など"
   },
   {
     id: 344,
@@ -3789,7 +4132,8 @@
     prefecture: "新潟県",
     address: "",
     wikipedia_url: "https://ja.wikipedia.org/wiki/Lynn",
-    twitter_url: "https://twitter.com/Lynn_0601_"
+    twitter_url: "https://twitter.com/Lynn_0601_",
+    masterpiece: "「炎炎ノ消防隊」プリンセス火華役など"
   },
   {
     id: 345,
@@ -3800,7 +4144,8 @@
     prefecture: "大阪府",
     address: "堺市",
     wikipedia_url: "https://ja.wikipedia.org/wiki/%E8%8B%A5%E6%9C%AC%E8%A6%8F%E5%A4%AB",
-    twitter_url: ""
+    twitter_url: "",
+    masterpiece: "「サザエさん」穴子役など"
   }
 ].each do |data|
   voice_actor = VoiceActor.find_or_initialize_by(id: data[:id])
@@ -3812,7 +4157,8 @@
     prefecture: data[:prefecture],
     address: data[:address],
     wikipedia_url: data[:wikipedia_url],
-    twitter_url: data[:twitter_url]
+    twitter_url: data[:twitter_url],
+    masterpiece: data[:masterpiece]
   )
   voice_actor.save!
 end

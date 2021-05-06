@@ -9,6 +9,7 @@ class CreateVoiceActors < ActiveRecord::Migration[5.2]
       t.string :address, null: false, default: ""
       t.string :wikipedia_url, null: false, default: ""
       t.string :twitter_url, null: false, default: ""
+      t.string :masterpiece, null: false
 
       t.timestamps
 

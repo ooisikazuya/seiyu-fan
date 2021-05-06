@@ -50,6 +50,7 @@ ActiveRecord::Schema.define(version: 2020_12_24_082914) do
     t.string "address", default: "", null: false
     t.string "wikipedia_url", default: "", null: false
     t.string "twitter_url", default: "", null: false
+    t.string "masterpiece", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["last_name_kana"], name: "index_voice_actors_on_last_name_kana"
