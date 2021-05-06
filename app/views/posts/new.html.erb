@@ -9,6 +9,7 @@
   <h1 class="bg-success text-white text-center">投稿する</h1>
 </div><br>
 <div class="container">
+  <h2 class="text-primary"><%= "#{@voice_actor.last_name}" "#{@voice_actor.first_name}" %></h2>
   <div class="row">
     <div class="col-12">
       <%= form_for(@post, url: favorite_voice_actor_posts_path(@voice_actor))  do |f| %>
