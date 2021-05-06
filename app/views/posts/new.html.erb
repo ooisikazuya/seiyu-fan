@@ -14,7 +14,7 @@
     <div class="col-12">
       <%= form_for(@post, url: favorite_voice_actor_posts_path(@voice_actor))  do |f| %>
         <div class="form-group">
-          <%= f.text_area :message, class: "form-control border-primary", id: "exampleFormControlTextarea1", rows:16 %><br>
+          <%= f.text_area :message, class: "form-control border-primary", id: "exampleFormControlTextarea1", rows:16, placeholder: "#{@voice_actor.last_name}" "#{@voice_actor.first_name}" "さんのことについて色々書いてね！" %><br>
           <%= f.submit "投稿する", class: "btn btn-warning btn-lg float-right" %>
         </div>
       <% end %>
