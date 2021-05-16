@@ -19,6 +19,11 @@
                 <% @voice_actors.each do |voice_actor| %>
                   <tr>
                     <td><%= "#{voice_actor.last_name} #{voice_actor.first_name}" %></td>
+                    <td>
+                      <% if voice_actor.address != "" %>
+                        <%= "#{voice_actor.address}出身" %>
+                      <% end %>
+                    </td>
                     <td><%= "#{voice_actor.masterpiece}" %></td>
                     <td>
                       <a href='<%= voice_actor.wikipedia_url %>'>Wikipedia</a>
