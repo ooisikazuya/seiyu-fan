@@ -76,6 +76,6 @@ Wikipedia、Twitterのリンクが声優毎に載っているのですぐに閲�
   https://guarded-mesa-01785.herokuapp.com
 
   #### テストユーザー情報
-  - ニックネーム  kazu　
-  - メールアドレス  ttttt@ttttt
-  - パスワード  abcdefg  
+  - ニックネーム・・・kazu　
+  - メールアドレス・・・ttttt@ttttt
+  - パスワード・・・abcdefg  
