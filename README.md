@@ -59,8 +59,8 @@ Wikipedia、Twitterのリンクが声優毎に載っているのですぐに閲�
 
 ## 使用技術
 ### フロントエンド
-- HTML/CSS
-- JavaScript/jQuery
+- HTML / CSS
+- JavaScript / jQuery
 - devise
 - kaminari 
 
