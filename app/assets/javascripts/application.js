@@ -19,10 +19,10 @@
 
 
 document.addEventListener("turbolinks:load", function() {
-  let actorName1 = $("#favorite_voice_actor_id_1").val();
+  let actorName1 = $("#favorite_voice_actor_id_1").val();    // それぞれのセレクトボックスで選択した声優を変数に入れる
   let actorName2 = $("#favorite_voice_actor_id_2").val();
   let actorName3 = $("#favorite_voice_actor_id_3").val();
-  if (actorName1) {
+  if (actorName1) {    // 声優を選択した時に他のセレクトボックスの選択肢から選択した声優を非表示にする
     $('#favorite_voice_actor_id_2 option[value=' + actorName1  + ']').hide();
     $('#favorite_voice_actor_id_3 option[value=' + actorName1  + ']').hide();
   }
@@ -34,17 +34,17 @@ document.addEventListener("turbolinks:load", function() {
     $('#favorite_voice_actor_id_1 option[value=' + actorName3  + ']').hide();
     $('#favorite_voice_actor_id_2 option[value=' + actorName3  + ']').hide();
   }
-  $(document).on('change', 'select', function() {
-    if ($(this).attr('id') == 'favorite_voice_actor_id_1') {
-      if ($(this).val()) {
+  $(document).on('change', 'select', function() {    // 声優の選択の変更
+    if ($(this).attr('id') == 'favorite_voice_actor_id_1') {    // セレクトボックス毎に処理する
+      if ($(this).val()) {    // 声優を選択している状態で別の声優を選択した時に他のセレクトボックスの選択肢からその声優を非表示にする
         $('#favorite_voice_actor_id_2 option[value=' + $(this).val() + ']').hide();
         $('#favorite_voice_actor_id_3 option[value=' + $(this).val() + ']').hide();
       }
-      if (actorName1) {
+      if (actorName1) {    // 他のセレクトボックスの選択肢に選択していた声優を表示する
         $('#favorite_voice_actor_id_2 option[value=' + actorName1 + ']').show();
         $('#favorite_voice_actor_id_3 option[value=' + actorName1 + ']').show();
       }
-      actorName1 = $(this).val();
+      actorName1 = $(this).val();  // 変更した声優を変数に入れる
     } else if ($(this).attr('id') == 'favorite_voice_actor_id_2') {
       if ($(this).val()) {
         $('#favorite_voice_actor_id_1 option[value=' + $(this).val() + ']').hide();
