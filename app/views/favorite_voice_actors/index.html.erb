@@ -18,7 +18,13 @@
         <% end %>
       <% else %>
         <br><br><br>
-        <h2 class="text-danger">好きな声優を選択しておく必要があります。「会員情報」のページから好きな声優を選択してください。</h1>
+        <h2 class="text-danger">好きな声優を選択しておく必要があります。”好きな声優を選択”ボタンから好きな声優を選択してください。</h1><br>
+        <div class="h1 text-center text-danger">
+          <i class="fas fa-arrow-down faa-vertical animated"></i>
+        </div><br>
+        <div class="text-center">
+          <%= link_to "好きな声優を選択", edit_favorite_voice_actors_path, class: 'btn btn-warning btn-lg' %>
+        </div>                
       <% end %>
     </div>
   </div>
