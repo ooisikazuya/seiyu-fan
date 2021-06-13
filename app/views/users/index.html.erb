@@ -12,7 +12,7 @@
           <div class="col-11">
             <table class="table">
               <tbody>
-                <% @users.each do |user|%>
+                <% @users.each do |user| %>
                   <tr>
                     <td class="h4 text-primary"><%= user.nickname %></td>                  
                     <% user.favorite_voice_actors.each do |favorite_voice_actor| %>
