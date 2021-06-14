@@ -6,6 +6,6 @@ class CreateFavoriteVoiceActors < ActiveRecord::Migration[5.2]
 
       t.timestamps
     end
-    add_index  :favorite_voice_actors, [:voice_actor_id, :user_id], unique: true
+    add_index :favorite_voice_actors, [:voice_actor_id, :user_id], unique: true
   end
 end
