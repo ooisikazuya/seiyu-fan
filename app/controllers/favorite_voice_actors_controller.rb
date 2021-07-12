@@ -7,7 +7,7 @@ class FavoriteVoiceActorsController < ApplicationController
   end
   
   def edit
-    @voice_actors_array = VoiceActor.all.map { |actor| ["#{actor.last_name} #{actor.first_name}", actor.id] }
+    @voice_actors_array = VoiceActor.all.map { |actor| ["#{actor.last_name} #{actor.first_name}", actor.id] }  # 選択肢に使用する声優のデータ
     favorite_voice_actor_ids = @user.favorite_voice_actors.pluck(:voice_actor_id)
     @favorite_voice_actors = VoiceActor.where(id: favorite_voice_actor_ids)
   end
