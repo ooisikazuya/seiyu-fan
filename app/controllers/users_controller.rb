@@ -3,7 +3,7 @@ class UsersController < ApplicationController
 
   def index
     @voice_actor = VoiceActor.find(params[:voice_actor_id])
-    @users = User.where(id: @voice_actor.favorite_voice_actors.pluck(:user_id))
+    @users = User.where(id: @voice_actor.favorite_voice_actors.pluck(:user_id))  # 特定の声優を選択しているユーザーを取得
   end
 
   def show
