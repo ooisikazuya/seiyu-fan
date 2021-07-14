@@ -17,7 +17,7 @@
 //= require jquery 
 //= require jquery_ujs
 
-
+// 声優の選択画面にて
 document.addEventListener("turbolinks:load", function() {
   let actorName1 = $("#favorite_voice_actor_id_1").val();    // それぞれのセレクトボックスで選択した声優を変数に入れる
   let actorName2 = $("#favorite_voice_actor_id_2").val();
